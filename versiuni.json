@@ -36,6 +36,18 @@
         "arm64",
         "x86_64"
       ]
+    },
+    "real-meteo": {
+      "versiune": "1.8.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.8.5/Real-Meteo-Mac-1.8.5.pkg",
+      "sha256": "3a9dcc8063a3bb0a3e13a56a36156362cf0ee906aa48aed8d745f505884ed453",
+      "marime": 46099142,
+      "noutati": "Actualizări automate: clic dreapta pe iconița din bara de meniu, apoi Caută actualizări. Merge și pe Mac-urile cu procesor Intel, de la macOS 13.",
+      "macosMinim": "11.0",
+      "procesoare": [
+        "x86_64",
+        "arm64"
+      ]
     }
   }
 }
