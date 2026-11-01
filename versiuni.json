@@ -48,6 +48,18 @@
         "x86_64",
         "arm64"
       ]
+    },
+    "tv-accesibil": {
+      "versiune": "1.7.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-1.7.1/TV-Accesibil-1.7.1-Universal.pkg",
+      "sha256": "deec57c22417e04a7f1ef67ea3975bb8d656921a84b69063903ec86b5f7a9af5",
+      "marime": 291932,
+      "noutati": "Actualizări automate: meniul TV Accesibil, Caută actualizări. TV Accesibil verifică singur o dată pe zi și instalează versiunea nouă la cerere.",
+      "macosMinim": "13.0",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
     }
   }
 }
