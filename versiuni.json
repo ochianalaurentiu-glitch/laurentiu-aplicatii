@@ -1,4 +1,17 @@
 {
   "format": 1,
-  "aplicatii": {}
+  "aplicatii": {
+    "adt": {
+      "versiune": "1.4.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.4.6/A.D.T-1.4.6-Universal.pkg",
+      "sha256": "4478404d1e7a92887fb160ddf1200afc21e65d11a9341cc0706e17c3fae4d445",
+      "marime": 161651045,
+      "noutati": "Actualizări automate: meniul A.D.T, Caută actualizări. Merge și pe Mac-urile cu procesor Intel, cu motorul de descărcare inclus. Logo mare pe sticlă lichidă, clar și pe tot ecranul, și animație de deschidere cu sunet stereo, descrisă de VoiceOver.",
+      "macosMinim": "13.0",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
+    }
+  }
 }
