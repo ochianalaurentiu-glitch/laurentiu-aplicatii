@@ -24,6 +24,18 @@
         "arm64",
         "x86_64"
       ]
+    },
+    "mixer": {
+      "versiune": "5.5.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.5.4/Mixer-5.5.4-Universal.pkg",
+      "sha256": "61737d3963630e1009f93e3c146ae83a11f3cfc5ab307e440d1ed09055545bc4",
+      "marime": 1555768,
+      "noutati": "Actualizări automate: clic dreapta pe pictograma Mixer din bara de meniu (cu VoiceOver: VO-Shift-M), apoi Caută actualizări. Merge și pe Mac-urile cu procesor Intel.",
+      "macosMinim": "14.2",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
     }
   }
 }
