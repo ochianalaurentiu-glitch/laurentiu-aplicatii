@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.6.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.1/Mixer-5.6.1-Universal.pkg",
-      "sha256": "28398acea7d2a795a9b4f67533d7cab80f0df9ea379baa69bfa81d09d4fef6f0",
-      "marime": 1895482,
-      "noutati": "Afișare corectă în toate cele 24 de limbi, la orice mărime a ferestrei; manualul e tradus; Comandă virgulă deschide Setările. Despre Mixer are instrucțiunile de utilizare. Instalatorul are acum trei taburi și acordul de licență, apoi cere microfonul.",
+      "versiune": "5.6.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.2/Mixer-5.6.2-Universal.pkg",
+      "sha256": "539647ab3f00c40a3d50c836a660f7b84d3c1de0b9154ca4f5d12b6d1ff88684",
+      "marime": 1910133,
+      "noutati": "Instalatorul pe un singur ecran, în limba aleasă, cu acordul de licență. Actualizările următoare se instalează direct din Mixer, doar cu parola. Setări: aspectul se alege cu două butoane radio și se schimbă pe loc.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
