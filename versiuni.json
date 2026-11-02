@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.1/A.D.T-1.5.1-Universal.pkg",
-      "sha256": "20b60be9354355cda0407e2071e83f9a3d124404270bcd792a5787f4b51efb70",
-      "marime": 186598169,
-      "noutati": "Afișare corectă în toate cele 24 de limbi: sugestiile, starea descărcărilor, meniul de actualizări și ajutorul pentru scurtături sunt traduse, iar listele nu mai trec de marginea ferestrei. Despre A.D.T are instrucțiunile de utilizare. Instalator nou, cu taburi și acord de licență.",
+      "versiune": "1.5.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.2/A.D.T-1.5.2-Universal.pkg",
+      "sha256": "794a0b5ad5f19f782c7ba82f3130c7732c7f35163c3d16b882fc025ec2aab6bb",
+      "marime": 186587542,
+      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
