@@ -38,11 +38,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.8.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.8.5/Real-Meteo-Mac-1.8.5.pkg",
-      "sha256": "3a9dcc8063a3bb0a3e13a56a36156362cf0ee906aa48aed8d745f505884ed453",
-      "marime": 46099142,
-      "noutati": "Actualizări automate: clic dreapta pe iconița din bara de meniu, apoi Caută actualizări. Merge și pe Mac-urile cu procesor Intel, de la macOS 13.",
+      "versiune": "1.9.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.0/Real-Meteo-Mac-1.9.0.pkg",
+      "sha256": "7c4d142c15e0921e37be3eec545787e5e30b99d52c2cf13851dea3c98de12034",
+      "marime": 46521555,
+      "noutati": "Real Meteo vorbește acum 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene, din Meniu → Setări → Limbă. Vremea e citită cu vocea limbii alese, iar buletinele ANM se traduc automat în ea. Modul de afișare implicit e acum Standard, care merge pe orice macOS; Liquid Glass se alege din Setări. Comandă + virgulă deschide Setările.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
