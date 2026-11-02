@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.7.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.2/Blind-Spin-1.7.2-Universal.pkg",
-      "sha256": "c73f97e4f16898a8b9dfeedc903ffb48ea27eabb39f413a99ac805b4284f7191",
-      "marime": 254013881,
-      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
+      "versiune": "1.7.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.3/Blind-Spin-1.7.3-Universal.pkg",
+      "sha256": "fe97a7a2501930656db701917002707d2f3a7cbe097e6654d31c9b93f6ba94a1",
+      "marime": 254006711,
+      "noutati": "Setări: Escape închide fereastra, iar aspectul (Standard sau Sticlă lichidă) se alege cu două butoane radio.",
       "macosMinim": "14.0",
       "procesoare": [
         "arm64",
