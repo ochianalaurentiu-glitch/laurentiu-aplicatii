@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.7.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.3/Blind-Spin-1.7.3-Universal.pkg",
-      "sha256": "fe97a7a2501930656db701917002707d2f3a7cbe097e6654d31c9b93f6ba94a1",
-      "marime": 254006711,
-      "noutati": "Setări: Escape închide fereastra, iar aspectul (Standard sau Sticlă lichidă) se alege cu două butoane radio.",
+      "versiune": "1.7.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.4/Blind-Spin-1.7.4-Universal.pkg",
+      "sha256": "9c37e76a300e7e9c0fd973910ff37739b37fdbb78b063c70ca92d132e2009a4b",
+      "marime": 254138642,
+      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
       "macosMinim": "14.0",
       "procesoare": [
         "arm64",
