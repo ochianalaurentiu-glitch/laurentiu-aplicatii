@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.2/Easy-TV-2.2.2-Universal.pkg",
-      "sha256": "4c0f1226ddbf08ce6d1f8d3c2045960dda7fca262d340a81930b00c23944d863",
-      "marime": 1850500,
-      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
+      "versiune": "2.2.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.3/Easy-TV-2.2.3-Universal.pkg",
+      "sha256": "0e8a14e34f6486468cc2244df91609608d19e1cd3113a4dfc713fff72a15916c",
+      "marime": 1858767,
+      "noutati": "Setări: Escape închide fereastra, iar aspectul (Standard sau Sticlă lichidă) se alege cu două butoane radio; alegerea rămâne focalizată și se anunță.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
