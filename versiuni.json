@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.7.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.1/Blind-Spin-1.7.1-Universal.pkg",
-      "sha256": "bfbfb4a105995a4ee2626aa0d910c03883bfc562d0a553d7d13d757bede9752f",
-      "marime": 254006875,
-      "noutati": "Afișare corectă în toate cele 24 de limbi: tonalitățile, numărul de piese, etichetele de pe platane și butoanele bibliotecii sunt traduse și nu mai sunt tăiate; vocea de stare vorbește în limba aleasă. Despre Blind Spin are instrucțiunile de utilizare. Instalator nou, cu taburi și acord de licență.",
+      "versiune": "1.7.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.2/Blind-Spin-1.7.2-Universal.pkg",
+      "sha256": "c73f97e4f16898a8b9dfeedc903ffb48ea27eabb39f413a99ac805b4284f7191",
+      "marime": 254013881,
+      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
       "macosMinim": "14.0",
       "procesoare": [
         "arm64",
