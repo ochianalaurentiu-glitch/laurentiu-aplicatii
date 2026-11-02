@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "1.8.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-1.8.0/TV-Accesibil-1.8.0-Universal.pkg",
-      "sha256": "84acaef64a96e0d48582da2cf775201a87528ec49fd6c05677f078faee1548bc",
-      "marime": 376997,
-      "noutati": "Căutare nouă: bara oblică (/) sau Comandă + F deschide câmpul Caută post, care caută deodată la televiziune și radio, cu sugestii pe măsură ce scrii. 263 de radiouri, față de 69: 86 din România și Moldova, în ordine alfabetică, și 177 din 21 de țări, ordonate după țară. 107 canale TV, față de 65: televiziuni locale, muzică, religioase, canalele gratuite Antena, TVR Moldova și Pro TV Chișinău. Toate posturile au fost testate.",
+      "versiune": "2.0.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.0.0/Easy-TV-2.0.0-Universal.pkg",
+      "sha256": "05df19ebd4ef3e9042f67e999bb800d968c467fa864df0a6f3106e40431758ef",
+      "marime": 1635547,
+      "noutati": "TV Accesibil devine Easy TV. 1287 de canale TV gratuite din 41 de țări europene și 263 de radiouri, toate testate. Aplicația e în 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene. Logo animat la pornire, cu vocea Easy TV și descriere pentru VoiceOver. Pornire pe ecran complet, Setări cu Comandă virgulă, aspect Standard sau Sticlă lichidă, butoane pentru mouse care se potrivesc oricărei limbi. Instalatorul nou alege pe un singur ecran locul, limba și aspectul. Favoritele și volumul se păstrează.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
