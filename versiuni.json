@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.1/Easy-TV-2.2.1-Universal.pkg",
-      "sha256": "f00dafc2682274586e287b220bed19f32a84ee5542dbdd58ec600a8f154a2dcf",
-      "marime": 1845124,
-      "noutati": "Instalator nou: trei taburi (limba, aspectul, locul de instalare), apoi acordul de licență. Despre Easy TV are acum instrucțiunile de utilizare: instalarea, permisiunile și toate scurtăturile de tastatură, în 24 de limbi.",
+      "versiune": "2.2.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.2/Easy-TV-2.2.2-Universal.pkg",
+      "sha256": "4c0f1226ddbf08ce6d1f8d3c2045960dda7fca262d340a81930b00c23944d863",
+      "marime": 1850500,
+      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
