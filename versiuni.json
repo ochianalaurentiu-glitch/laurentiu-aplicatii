@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.0/A.D.T-1.5.0-Universal.pkg",
-      "sha256": "d09f775a756417acd1d7e4a49ae2e53c65cd47009b3f816f725ddc9cfbfaa9a1",
-      "marime": 186539408,
-      "noutati": "A.D.T vorbește acum 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene, din Opțiuni (Comandă + virgulă). Tot acolo alegi aspectul: Standard sau Sticlă lichidă (macOS 26). Când se termină toată lista de descărcări, se aude un clinchet discret, stereo, și apare o notificare; sunetul se poate opri din Opțiuni. Instalatorul nou alege pe un singur ecran locul, limba și aspectul.",
+      "versiune": "1.5.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.1/A.D.T-1.5.1-Universal.pkg",
+      "sha256": "20b60be9354355cda0407e2071e83f9a3d124404270bcd792a5787f4b51efb70",
+      "marime": 186598169,
+      "noutati": "Afișare corectă în toate cele 24 de limbi: sugestiile, starea descărcărilor, meniul de actualizări și ajutorul pentru scurtături sunt traduse, iar listele nu mai trec de marginea ferestrei. Despre A.D.T are instrucțiunile de utilizare. Instalator nou, cu taburi și acord de licență.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
