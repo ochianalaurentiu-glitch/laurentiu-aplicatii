@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.6.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.0/Mixer-5.6.0-Universal.pkg",
-      "sha256": "3a3ca75fb522dec65865cf27fef48cc362700b655a4594d6a8e4aaf983b65ae9",
-      "marime": 1711352,
-      "noutati": "Mixer vorbește acum 24 de limbi: în Setări, butonul Limbă deschide lista (româna, Automat sau oricare limbă a Uniunii Europene), iar limba se schimbă pe loc. Butonul Aspect alege între Standard (implicit, merge pe orice macOS) și Sticlă lichidă (macOS 26). Instalatorul Mixer întreabă și el limba și aspectul. Permisiunile pentru microfon și audio de sistem rămân, fiindcă semnătura e aceeași.",
+      "versiune": "5.6.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.1/Mixer-5.6.1-Universal.pkg",
+      "sha256": "28398acea7d2a795a9b4f67533d7cab80f0df9ea379baa69bfa81d09d4fef6f0",
+      "marime": 1895482,
+      "noutati": "Afișare corectă în toate cele 24 de limbi, la orice mărime a ferestrei; manualul e tradus; Comandă virgulă deschide Setările. Despre Mixer are instrucțiunile de utilizare. Instalatorul are acum trei taburi și acordul de licență, apoi cere microfonul.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
