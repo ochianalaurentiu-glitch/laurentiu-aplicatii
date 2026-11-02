@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.3/Easy-TV-2.2.3-Universal.pkg",
-      "sha256": "0e8a14e34f6486468cc2244df91609608d19e1cd3113a4dfc713fff72a15916c",
-      "marime": 1858767,
-      "noutati": "Setări: Escape închide fereastra, iar aspectul (Standard sau Sticlă lichidă) se alege cu două butoane radio; alegerea rămâne focalizată și se anunță.",
+      "versiune": "2.2.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.4/Easy-TV-2.2.4-Universal.pkg",
+      "sha256": "bea50803656b709f232877a238d82c7518641d882d8832712f0328fbdae8328f",
+      "marime": 1976439,
+      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
