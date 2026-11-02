@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.6.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.6.8/Blind-Spin-1.6.8-Universal.pkg",
-      "sha256": "0f72c1a305e3de6932c7f34b0f3789846f4c48e1413a70477ec5709396c27bf9",
-      "marime": 253731333,
-      "noutati": "Actualizări automate: meniul Blind Spin, Caută actualizări. Merge și pe Mac-urile cu Intel, fără despărțirea în straturi. Efecte reale pe Option 1 până la 9, intro DJ Lau, deschidere cu scratch, pornire pe tot ecranul, Liquid Glass și golirea straturilor la 30 de secunde după închidere.",
+      "versiune": "1.7.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.0/Blind-Spin-1.7.0-Universal.pkg",
+      "sha256": "cf6849561cefa7309b2b62028c1523af66b47711a795e2765a099df9a10b4a89",
+      "marime": 253909855,
+      "noutati": "Blind Spin vorbește acum 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene. Toate textele, inclusiv cele de pe pupitru, și anunțurile VoiceOver apar în limba aleasă. Setări nou, cu Comandă + virgulă: limba și aspectul (Standard implicit, Sticlă lichidă de la macOS 26). Butoanele din bibliotecă se lățesc după text, ca nimic să nu fie tăiat. Instalatorul nou alege pe un singur ecran locul, limba și aspectul.",
       "macosMinim": "14.0",
       "procesoare": [
         "arm64",
