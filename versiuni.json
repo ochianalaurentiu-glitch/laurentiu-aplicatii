@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.3/A.D.T-1.5.3-Universal.pkg",
-      "sha256": "09ff700870b6dc3dce03903f2058c021e55f72c9d10ee1310586c18ff7c971b3",
-      "marime": 186587544,
-      "noutati": "„Opțiuni” se numește acum „Setări”, ca în celelalte aplicații (tot cu Comandă virgulă).",
+      "versiune": "1.5.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.4/A.D.T-1.5.4-Universal.pkg",
+      "sha256": "393591652c94b5a1fb73ff99fafdcbfb4739ebb06e4c3456521af54492dca15d",
+      "marime": 186702128,
+      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
