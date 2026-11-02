@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "1.7.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-1.7.1/TV-Accesibil-1.7.1-Universal.pkg",
-      "sha256": "deec57c22417e04a7f1ef67ea3975bb8d656921a84b69063903ec86b5f7a9af5",
-      "marime": 291932,
-      "noutati": "Actualizări automate: meniul TV Accesibil, Caută actualizări. TV Accesibil verifică singur o dată pe zi și instalează versiunea nouă la cerere.",
+      "versiune": "1.8.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-1.8.0/TV-Accesibil-1.8.0-Universal.pkg",
+      "sha256": "84acaef64a96e0d48582da2cf775201a87528ec49fd6c05677f078faee1548bc",
+      "marime": 376997,
+      "noutati": "Căutare nouă: bara oblică (/) sau Comandă + F deschide câmpul Caută post, care caută deodată la televiziune și radio, cu sugestii pe măsură ce scrii. 263 de radiouri, față de 69: 86 din România și Moldova, în ordine alfabetică, și 177 din 21 de țări, ordonate după țară. 107 canale TV, față de 65: televiziuni locale, muzică, religioase, canalele gratuite Antena, TVR Moldova și Pro TV Chișinău. Toate posturile au fost testate.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
