@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.5.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.5.5/Mixer-5.5.5-Universal.pkg",
-      "sha256": "a53239349edfa6a2748a013a57871c5f6c5f4ed8716040803c77a85fe4ebdf33",
-      "marime": 1565442,
-      "noutati": "Reparat: muzica din aplicații (Blind Spin, Spotify și altele) se oprea după o secundă-două. După o actualizare, macOS nu mai recunoștea permisiunea pentru audio de sistem. Acum permisiunea rămâne de la o versiune la alta. La această actualizare, dă o singură dată din nou permisiunile pentru microfon și pentru Înregistrare ecran și audio de sistem. Dacă muzica tot nu poate fi preluată, Mixer lasă aplicațiile să se audă direct și îți spune ce să faci.",
+      "versiune": "5.6.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.0/Mixer-5.6.0-Universal.pkg",
+      "sha256": "3a3ca75fb522dec65865cf27fef48cc362700b655a4594d6a8e4aaf983b65ae9",
+      "marime": 1711352,
+      "noutati": "Mixer vorbește acum 24 de limbi: în Setări, butonul Limbă deschide lista (româna, Automat sau oricare limbă a Uniunii Europene), iar limba se schimbă pe loc. Butonul Aspect alege între Standard (implicit, merge pe orice macOS) și Sticlă lichidă (macOS 26). Instalatorul Mixer întreabă și el limba și aspectul. Permisiunile pentru microfon și audio de sistem rămân, fiindcă semnătura e aceeași.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
