@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.2/A.D.T-1.5.2-Universal.pkg",
-      "sha256": "794a0b5ad5f19f782c7ba82f3130c7732c7f35163c3d16b882fc025ec2aab6bb",
-      "marime": 186587542,
-      "noutati": "Instalarea pe un singur ecran, în limba aleasă: limba, aspectul și locul de instalare, acordul de licență cu o bifă și butonul Instalează. Actualizările următoare se instalează direct din aplicație, doar cu parola Mac-ului, iar aplicația repornește singură.",
+      "versiune": "1.5.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.3/A.D.T-1.5.3-Universal.pkg",
+      "sha256": "09ff700870b6dc3dce03903f2058c021e55f72c9d10ee1310586c18ff7c971b3",
+      "marime": 186587544,
+      "noutati": "„Opțiuni” se numește acum „Setări”, ca în celelalte aplicații (tot cu Comandă virgulă).",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
