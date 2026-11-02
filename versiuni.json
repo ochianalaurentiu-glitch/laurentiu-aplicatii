@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.4.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.4.6/A.D.T-1.4.6-Universal.pkg",
-      "sha256": "4478404d1e7a92887fb160ddf1200afc21e65d11a9341cc0706e17c3fae4d445",
-      "marime": 161651045,
-      "noutati": "Actualizări automate: meniul A.D.T, Caută actualizări. Merge și pe Mac-urile cu procesor Intel, cu motorul de descărcare inclus. Logo mare pe sticlă lichidă, clar și pe tot ecranul, și animație de deschidere cu sunet stereo, descrisă de VoiceOver.",
+      "versiune": "1.5.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.0/A.D.T-1.5.0-Universal.pkg",
+      "sha256": "d09f775a756417acd1d7e4a49ae2e53c65cd47009b3f816f725ddc9cfbfaa9a1",
+      "marime": 186539408,
+      "noutati": "A.D.T vorbește acum 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene, din Opțiuni (Comandă + virgulă). Tot acolo alegi aspectul: Standard sau Sticlă lichidă (macOS 26). Când se termină toată lista de descărcări, se aude un clinchet discret, stereo, și apare o notificare; sunetul se poate opri din Opțiuni. Instalatorul nou alege pe un singur ecran locul, limba și aspectul.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
