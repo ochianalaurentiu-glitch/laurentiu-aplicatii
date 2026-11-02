@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.0.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.0.0/Easy-TV-2.0.0-Universal.pkg",
-      "sha256": "05df19ebd4ef3e9042f67e999bb800d968c467fa864df0a6f3106e40431758ef",
-      "marime": 1635547,
-      "noutati": "TV Accesibil devine Easy TV. 1287 de canale TV gratuite din 41 de țări europene și 263 de radiouri, toate testate. Aplicația e în 24 de limbi: româna, limba sistemului sau oricare limbă a Uniunii Europene. Logo animat la pornire, cu vocea Easy TV și descriere pentru VoiceOver. Pornire pe ecran complet, Setări cu Comandă virgulă, aspect Standard sau Sticlă lichidă, butoane pentru mouse care se potrivesc oricărei limbi. Instalatorul nou alege pe un singur ecran locul, limba și aspectul. Favoritele și volumul se păstrează.",
+      "versiune": "2.1.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.1.0/Easy-TV-2.1.0-Universal.pkg",
+      "sha256": "76892a3dc0373c2dbfaf3568cfb5b1741d2d689a708974d0bc241f228b1cbed6",
+      "marime": 1810355,
+      "noutati": "Radio pe țări, ca la televiziune: un singur tab Radio, cu 761 de posturi din 45 de țări europene, toate testate. Playerul nou de radio arată logo-ul postului, numele și piesa sau emisiunea care se aude, cu butoane Pornește/Pauză, Oprește și volum. VoiceOver spune piesa nouă (se poate opri din Setări) și descrie logo-ul: textul din imagine și culoarea. Comandă + 1: televiziune, Comandă + 2: radio.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
