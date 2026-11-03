@@ -14,12 +14,12 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.8.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.0/Blind-Spin-1.8.0-Universal.pkg",
-      "sha256": "e43f30b5c53ad283b163b3a8ac44977b02cdb846c5c49a23c697818f73c2168e",
-      "marime": 254307438,
-      "noutati": "Aspect 3D realist, cu 6 fețe la alegere în Setări → Fețe (Aluminiu, Negru metalic, Grafit, Club DJ, Studio, Hi-fi vintage): pick-up-uri cu vinil și braț, butoane și cursoare 3D, lumină de sus. VoiceOver funcționează exact ca înainte.",
-      "macosMinim": "14.0",
+      "versiune": "1.8.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.1/Blind-Spin-1.8.1-Universal.pkg",
+      "sha256": "71e000ec2f9461cce484a827d3b482af06c7e46e44e3f86bc15e13f3ae7441c8",
+      "marime": 254336125,
+      "noutati": "Blind Spin merge acum pe orice Mac cu macOS 11 Big Sur sau mai nou, atât pe cele cu procesor Intel, cât și pe cele cu Apple Silicon. Până acum, pe un Mac cu Intel și macOS 12 aplicația nu pornea, iar instalatorul cerea macOS 14. Despărțirea în straturi rămâne disponibilă pe Apple Silicon cu macOS 14 sau mai nou; toate celelalte funcții merg la fel.",
+      "macosMinim": "11.0",
       "procesoare": [
         "arm64",
         "x86_64"
