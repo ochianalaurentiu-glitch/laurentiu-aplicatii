@@ -38,11 +38,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.9.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.2/Real-Meteo-Mac-1.9.2.pkg",
-      "sha256": "860e32654d99b177102267815a112934a1e8bb6a8f2d57202b876fe280a6fdf4",
-      "marime": 46761897,
-      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
+      "versiune": "1.9.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.3/Real-Meteo-Mac-1.9.3.pkg",
+      "sha256": "eac3786b17b7f8ded6004d14ee45f332859233606d5997d9baf5e9db83563d05",
+      "marime": 46761938,
+      "noutati": "Sunetul de fundal ține cont de temperatură: pe vreme noroasă, ziua, sub 12 °C nu se mai aud insecte, ci doar un vânt liniștit. Imaginea rămâne aceeași.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
