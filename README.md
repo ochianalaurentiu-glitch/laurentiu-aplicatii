@@ -9,14 +9,16 @@ Aplicații pentru Mac, gândite pentru a fi folosite complet cu VoiceOver și ta
 | **Mixer** | mixer pentru voce și muzică în apeluri și streaming |
 | **Real Meteo** | vremea și avertizările ANM în bara de meniu |
 | **Easy TV** (fostul TV Accesibil) | televiziune și radio gratuite din toată Europa, în 24 de limbi |
+| **Win-App** | player audio cu deck realist, egalizator de 10 benzi, FLAC hi-res și multe alte formate, scurtăturile clasice |
 
 ## Instalare
 
-Instalatoarele sunt în secțiunea **Releases** a acestui depozit. Toate merg pe Mac cu Apple Silicon și cu Intel.
+Instalatoarele sunt în secțiunea **Releases** a acestui depozit. Toate merg pe Mac cu Apple Silicon și cu Intel. Setările se deschid cu Comandă + virgulă, în toate.
 
-Pentru Easy TV, descarcă **„Instalează Easy TV … .dmg”**: pe un singur ecran alegi unde se instalează,
-limba (româna, limba sistemului sau oricare din cele 24 de limbi ale Uniunii Europene) și aspectul
-(Standard sau Sticlă lichidă, de la macOS 26), apoi apeși Instalează.
+Pentru o instalare nouă, descarcă **„Instalează … .dmg”** al aplicației. Totul e pe un singur ecran, în limba aleasă:
+în trei taburi alegi limba (româna, limba sistemului sau oricare din cele 24 de limbi ale Uniunii Europene),
+aspectul (Standard sau Sticlă lichidă, de la macOS 26) și locul de instalare; dedesubt citești acordul de licență,
+bifezi „Accept” și apeși Instalează. Apoi aplicația îți cere permisiunile de care are nevoie.
 
 Pachetele nu sunt încă semnate cu un certificat Apple: la prima deschidere, macOS poate cere confirmare în
 **Configurări sistem → Confidențialitate și securitate → Deschide oricum**.
@@ -25,6 +27,7 @@ Pachetele nu sunt încă semnate cu un certificat Apple: la prima deschidere, ma
 
 Fiecare aplicație are în meniu **„Caută actualizări…”** și verifică singură, o dată pe zi, fișierul
 [`versiuni.json`](versiuni.json). Când apare o versiune nouă, anunță prin VoiceOver ce s-a reparat și,
-la cerere, descarcă instalatorul, îi verifică amprenta (SHA-256) și deschide instalatorul macOS.
+la cerere, descarcă pachetul, îi verifică amprenta (SHA-256) și îl instalează direct, cerând doar parola Mac-ului;
+apoi aplicația repornește singură.
 
 Producător: Laurențiu
