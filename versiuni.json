@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.7.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.7.4/Blind-Spin-1.7.4-Universal.pkg",
-      "sha256": "9c37e76a300e7e9c0fd973910ff37739b37fdbb78b063c70ca92d132e2009a4b",
-      "marime": 254138642,
-      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
+      "versiune": "1.8.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.0/Blind-Spin-1.8.0-Universal.pkg",
+      "sha256": "e43f30b5c53ad283b163b3a8ac44977b02cdb846c5c49a23c697818f73c2168e",
+      "marime": 254307438,
+      "noutati": "Aspect 3D realist, cu 6 fețe la alegere în Setări → Fețe (Aluminiu, Negru metalic, Grafit, Club DJ, Studio, Hi-fi vintage): pick-up-uri cu vinil și braț, butoane și cursoare 3D, lumină de sus. VoiceOver funcționează exact ca înainte.",
       "macosMinim": "14.0",
       "procesoare": [
         "arm64",
