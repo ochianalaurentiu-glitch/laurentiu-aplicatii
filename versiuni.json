@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.8.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.1/Blind-Spin-1.8.1-Universal.pkg",
-      "sha256": "71e000ec2f9461cce484a827d3b482af06c7e46e44e3f86bc15e13f3ae7441c8",
-      "marime": 254336125,
-      "noutati": "Blind Spin merge acum pe orice Mac cu macOS 11 Big Sur sau mai nou, atât pe cele cu procesor Intel, cât și pe cele cu Apple Silicon. Până acum, pe un Mac cu Intel și macOS 12 aplicația nu pornea, iar instalatorul cerea macOS 14. Despărțirea în straturi rămâne disponibilă pe Apple Silicon cu macOS 14 sau mai nou; toate celelalte funcții merg la fel.",
+      "versiune": "1.8.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.2/Blind-Spin-1.8.2-Universal.pkg",
+      "sha256": "c81db1ecc64fb8dc3cffa067840ee3e0731000e6c76ab6535808903c69ae37e6",
+      "marime": 254337401,
+      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
