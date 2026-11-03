@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.6.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.6.3/Mixer-5.6.3-Universal.pkg",
-      "sha256": "0d6ffe229584d33644efbc4356904cc5de232ef9fc40a4e0889247a8c85bf048",
-      "marime": 1913970,
-      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
+      "versiune": "5.7.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.0/Mixer-5.7.0-Universal.pkg",
+      "sha256": "257915720f581de13f6ea618e14ff57173e2f9575f91b3cebe7f47bebcefac16",
+      "marime": 2018458,
+      "noutati": "Consolă 3D realistă, cu 6 fețe la alegere în Setări → Fețe: cursoare de mixer adevărate, buton rotativ, butoane și LED-uri, lumină de sus. Permisiunea pentru microfon se păstrează.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
