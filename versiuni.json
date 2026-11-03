@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.7/Win-App-0.2.7-Universal.pkg",
-      "sha256": "db1b5792467ed554b1c2099db1b74a04f391f1ce4cc8f115bc036a9ad3502621",
-      "marime": 6810835,
-      "noutati": "Vocea „Win-App” cade acum pe efectul de deschidere: cuvântul se aude cât zboară discul spre logo, iar „App” odată cu aprinderea deck-ului. Imaginea pornește odată cu sunetul auzit, și pe căștile Bluetooth. VoiceOver nu mai anunță piesa care începe singură la sfârșitul celei curente (nici titlurile noi ale fluxurilor de pe internet); piesa schimbată de tine (Z, B, Comandă săgeți) se anunță în continuare.",
+      "versiune": "0.2.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.8/Win-App-0.2.8-Universal.pkg",
+      "sha256": "a68ff7ddaa5d05a988d05f68d44dd278b262f19e428c647f3f072df0f265fe19",
+      "marime": 6813222,
+      "noutati": "VoiceOver nu mai citește piesa care începe singură nici când ești în lista de redare: lista nu se mai reîncarcă și selecția stă pe loc; rândul piesei noi spune „se redă”. Tasta I spune numele piesei, apoi calitatea sunetului. Pe ecranul deck-ului, numele piesei are rândul lui, pe toată lățimea, sub cronometru, vumetru și logo, deasupra șinei de poziție.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
