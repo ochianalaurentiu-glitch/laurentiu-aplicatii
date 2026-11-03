@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.3/Win-App-0.2.3-Universal.pkg",
-      "sha256": "342613b6fe7a3ffbe073d34651ec6296bad20a5dfba9f5f655bcb1533b4af2ed",
-      "marime": 6929166,
-      "noutati": "Scurtăturile de tastatură, reparate: 10 piese înapoi sau înainte merge acum cu Option Comandă săgeți (Control săgeți e al macOS), lista scurtăturilor se deschide cu Comandă K, iar în câmpul de căutare și în Despre săgețile cu Comandă mută cursorul ca în orice text. Tastele [ ] și ` merg și pe tastatura românească și pe celelalte europene, Q merge pe greacă și bulgară. Comandă Z anulează golirea, sortarea sau eliminarea din listă; Comandă W ascunde Win-App fără să oprească muzica. Lista scurtăturilor arată și panoul în care merge fiecare tastă și include tot ce e în meniuri.",
+      "versiune": "0.2.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.4/Win-App-0.2.4-Universal.pkg",
+      "sha256": "1c7016202e8b2d50d783b92666a82acaa6a1642fcc0bded93d69018b1c933226",
+      "marime": 6959617,
+      "noutati": "Săgețile, cum trebuie: în egalizator sunt doar ale egalizatorului (nu mai derulează și nu mai schimbă volumul); sus și jos reglează banda sau aleg presetarea, iar pe Pornit și Auto aleg Activat sau Dezactivat, cu Enter pentru păstrare și Escape pentru renunțare. Pe deck, stânga și dreapta derulează, sus și jos schimbă volumul. Comandă săgeți și Option săgeți derulează câte 10 secunde. Reparat după un audit VoiceOver: Escape în presetări reface curba proprie, selectorul spune Personalizat în loc de Plat, focalizarea rămâne pe loc după schimbarea aspectului, etichete și titluri traduse, Tab în Despre și Informații ajunge la Închide, anunțuri care nu se mai taie, Spațiu în listă redă piesa.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
