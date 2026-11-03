@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.6/A.D.T-1.5.6-Universal.pkg",
-      "sha256": "ce5551d8925eeb50a45d273255cea0ad7e556b133c858500591f7a82b1a79c82",
-      "marime": 201273623,
-      "noutati": "Închiderea A.D.T merge acum pe orice Mac: cu descărcări în lucru, aplicația rămânea blocată după Comandă Q sau după închiderea ferestrei. Acum întreabă dacă vrei să continui descărcările sau să le oprești și să închizi, apoi se închide pe loc, fără procese rămase pornite. Fișierele temporare ale descărcărilor oprite se șterg la pornirea următoare.",
+      "versiune": "1.5.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.7/A.D.T-1.5.7-Universal.pkg",
+      "sha256": "ade3490cd038aeaa38ea4f7daccb9300b8d8981f85c30fcbe7e6e70c0bbab9c5",
+      "marime": 201271752,
+      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
