@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.1/Win-App-0.2.1-Universal.pkg",
-      "sha256": "4c9d60eeb9ccebfe4d0236196d1b2650468dd8934c08bdfea6f2c6c4be6143b7",
-      "marime": 6904070,
-      "noutati": "Prima versiune publică a Win-App: player audio accesibil complet cu VoiceOver. Deck realist 3D cu 6 fețe (Aluminiu, Negru metalic, Grafit, Club DJ, Studio, Hi-fi vintage), afișaj cu calitatea piesei (de ex. FLAC 24 biți 192 kHz, bit-perfect), vumetre digitale, egalizator de 10 benzi cu peste 20 de presetări, crossfade 0–12 s, căutare cu J, scurtăturile clasice, multe formate (FLAC hi-res, ALAC, MP3, AAC, Ogg Vorbis, Opus, WavPack, Monkey's Audio, Musepack, DSD, module, MIDI). 24 de limbi. macOS 11 sau mai nou, Intel și Apple Silicon.",
+      "versiune": "0.2.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.2/Win-App-0.2.2-Universal.pkg",
+      "sha256": "48c298b65b55d17a002680b36739cb82d3699a9adfd0979573618c5c7e83ec42",
+      "marime": 6904097,
+      "noutati": "La fiecare piesă nouă și la trecerea lină, VoiceOver spune doar numărul, artistul și titlul. Formatul și calitatea rămân pe afișaj și se pot asculta oricând cu tasta I; anunțul automat se poate porni din Setări.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
