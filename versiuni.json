@@ -50,12 +50,12 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.4/Easy-TV-2.2.4-Universal.pkg",
-      "sha256": "bea50803656b709f232877a238d82c7518641d882d8832712f0328fbdae8328f",
-      "marime": 1976439,
-      "noutati": "Setări noi, la fel în toate aplicațiile: o listă de secțiuni (Aspect, Pornire, Audio, Limbă, Despre). Pe Limbă, săgeata stânga sau dreapta deschide lista celor 24 de limbi, iar alegerea repornește aplicația în limba aleasă. Escape închide Setările. Fereastra de actualizare se închide cu Escape (Mai târziu).",
-      "macosMinim": "13.0",
+      "versiune": "2.2.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.5/Easy-TV-2.2.5-Universal.pkg",
+      "sha256": "772767da597b2785101ae9f0a708df23f2acb479d324655f6eb1b2e661a5f112",
+      "marime": 1976714,
+      "noutati": "Easy TV merge acum și pe Mac-uri mai vechi, de la macOS 11 Big Sur, atât pe cele cu procesor Intel, cât și pe cele cu Apple Silicon. Partea de rețea și redarea au fost rescrise ca să fie mai sigure pe sistemele vechi, iar logo-urile posturilor de radio se încarcă în fundal, fără să încetinească fereastra.",
+      "macosMinim": "11.0",
       "procesoare": [
         "arm64",
         "x86_64"
