@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.5/Win-App-0.2.5-Universal.pkg",
-      "sha256": "84e81fc641534a67fa9c0fb965c5ac79811c0323c6d015f1ee852ebe8b7336dd",
-      "marime": 6960391,
-      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
+      "versiune": "0.2.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.6/Win-App-0.2.6-Universal.pkg",
+      "sha256": "c5d359fab80faa9fbdcf41c87c399551ff5618a70141c3a537a4d7c33070804b",
+      "marime": 7005289,
+      "noutati": "Enter și Spațiu: în listă pornesc piesa aleasă, iar pe piesa care se redă pun pauză sau o continuă; pe deck pornesc redarea sau pun pauză. Comandă săgeată dreapta/stânga: piesa următoare/anterioară (Option: 10 secunde). Ecran nou pe toată lățimea deck-ului: timpul, vumetrul cu 10 benzi (aceleași frecvențe ca egalizatorul), logo-ul animat și șina de poziție. Egalizatorul și lista ies de sub deck ca niște sertare; lista își ia singură lățimea. Merge pe Intel și Apple Silicon, macOS 11+.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
