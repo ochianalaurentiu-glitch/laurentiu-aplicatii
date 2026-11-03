@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.5/A.D.T-1.5.5-Universal.pkg",
-      "sha256": "2d3ea29596bb8d004cb661fba71bf2975ef1d6d8b725c5dffb87310dc731e186",
-      "marime": 201263083,
-      "noutati": "Motorul de descărcare (Python, yt-dlp, ffmpeg, Deno) e inclus în aplicație și merge pe orice Mac, cu Intel sau Apple Silicon, fără nimic instalat în plus. Înainte lipsea din instalatorul DMG și, pe Mac-urile fără Python, aplicația spunea că motorul nu e instalat. A.D.T merge acum și pe macOS 12 Monterey.",
+      "versiune": "1.5.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.6/A.D.T-1.5.6-Universal.pkg",
+      "sha256": "ce5551d8925eeb50a45d273255cea0ad7e556b133c858500591f7a82b1a79c82",
+      "marime": 201273623,
+      "noutati": "Închiderea A.D.T merge acum pe orice Mac: cu descărcări în lucru, aplicația rămânea blocată după Comandă Q sau după închiderea ferestrei. Acum întreabă dacă vrei să continui descărcările sau să le oprești și să închizi, apoi se închide pe loc, fără procese rămase pornite. Fișierele temporare ale descărcărilor oprite se șterg la pornirea următoare.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
