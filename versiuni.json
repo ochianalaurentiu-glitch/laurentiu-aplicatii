@@ -38,11 +38,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.9.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.4/Real-Meteo-Mac-1.9.4.pkg",
-      "sha256": "f7a671cd7546200763e4927b27f1064f51dd22f9a21e3df37e2a33bf060b12c3",
-      "marime": 46763945,
-      "noutati": "Sunetele de fundal țin cont de anotimp și de temperatură: pe vreme noroasă sub 12 °C nu se mai aud insecte, iar în zilele senine corul de păsări se aude doar din martie până în august. În rest se aude un vânt liniștit.",
+      "versiune": "1.9.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.5/Real-Meteo-Mac-1.9.5.pkg",
+      "sha256": "673252340c1dc300702c384b3621055bed517051e0e81ca7a84e7ba18279f82f",
+      "marime": 46767666,
+      "noutati": "Real Meteo pornește acum și pe Mac-urile cu procesor Intel cu macOS 11 Big Sur sau mai nou, la fel ca pe Apple Silicon. Până acum, pe Intel era nevoie de macOS 13.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
