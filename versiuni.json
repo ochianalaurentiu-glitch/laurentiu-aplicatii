@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.6/Win-App-0.2.6-Universal.pkg",
-      "sha256": "c5d359fab80faa9fbdcf41c87c399551ff5618a70141c3a537a4d7c33070804b",
-      "marime": 7005289,
-      "noutati": "Enter și Spațiu: în listă pornesc piesa aleasă, iar pe piesa care se redă pun pauză sau o continuă; pe deck pornesc redarea sau pun pauză. Comandă săgeată dreapta/stânga: piesa următoare/anterioară (Option: 10 secunde). Ecran nou pe toată lățimea deck-ului: timpul, vumetrul cu 10 benzi (aceleași frecvențe ca egalizatorul), logo-ul animat și șina de poziție. Egalizatorul și lista ies de sub deck ca niște sertare; lista își ia singură lățimea. Merge pe Intel și Apple Silicon, macOS 11+.",
+      "versiune": "0.2.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.7/Win-App-0.2.7-Universal.pkg",
+      "sha256": "db1b5792467ed554b1c2099db1b74a04f391f1ce4cc8f115bc036a9ad3502621",
+      "marime": 6810835,
+      "noutati": "Vocea „Win-App” cade acum pe efectul de deschidere: cuvântul se aude cât zboară discul spre logo, iar „App” odată cu aprinderea deck-ului. Imaginea pornește odată cu sunetul auzit, și pe căștile Bluetooth. VoiceOver nu mai anunță piesa care începe singură la sfârșitul celei curente (nici titlurile noi ale fluxurilor de pe internet); piesa schimbată de tine (Z, B, Comandă săgeți) se anunță în continuare.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
