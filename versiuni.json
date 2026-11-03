@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.4/Win-App-0.2.4-Universal.pkg",
-      "sha256": "1c7016202e8b2d50d783b92666a82acaa6a1642fcc0bded93d69018b1c933226",
-      "marime": 6959617,
-      "noutati": "Săgețile, cum trebuie: în egalizator sunt doar ale egalizatorului (nu mai derulează și nu mai schimbă volumul); sus și jos reglează banda sau aleg presetarea, iar pe Pornit și Auto aleg Activat sau Dezactivat, cu Enter pentru păstrare și Escape pentru renunțare. Pe deck, stânga și dreapta derulează, sus și jos schimbă volumul. Comandă săgeți și Option săgeți derulează câte 10 secunde. Reparat după un audit VoiceOver: Escape în presetări reface curba proprie, selectorul spune Personalizat în loc de Plat, focalizarea rămâne pe loc după schimbarea aspectului, etichete și titluri traduse, Tab în Despre și Informații ajunge la Închide, anunțuri care nu se mai taie, Spațiu în listă redă piesa.",
+      "versiune": "0.2.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.5/Win-App-0.2.5-Universal.pkg",
+      "sha256": "84e81fc641534a67fa9c0fb965c5ac79811c0323c6d015f1ee852ebe8b7336dd",
+      "marime": 6960391,
+      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
