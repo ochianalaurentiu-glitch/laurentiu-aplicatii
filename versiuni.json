@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.0/Win-App-0.3.0-Universal.pkg",
-      "sha256": "053fef576452d7a28113f81165013cb6dff4dddb107bf4b2218d007efdeea2d1",
-      "marime": 7072591,
-      "noutati": "Radio pe internet: aproape 5.000 de posturi din 181 de țări, toate verificate că pornesc, pe țări, cu căutare (tasta J caută în sursa aleasă). Lista de redare are jos două surse, Muzică locală și Radio, iar deck-ul are butoane noi pentru Radio și Setări (Comandă virgulă). Când adaugi multă muzică deodată, dublurile sunt sărite: același fișier, o copie din alt dosar sau o legătură spre el.",
+      "versiune": "0.3.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.1/Win-App-0.3.1-Universal.pkg",
+      "sha256": "138de68f09d524e97380a2b020bbb2be732cf5c9da39902a77e55bf8f44ba766",
+      "marime": 7230871,
+      "noutati": "Proiecția pe boxe AirPlay: butonul Boxe de pe deck (Comandă Shift B) deschide lista de boxe; săgețile spun dacă boxa e bifată, Enter o alege și muzica trece imediat pe ea, Escape închide lista. Win-App poate deschide muzica la dublu clic în Finder: toate formatele sau doar cele alese (Setări, Pornire). Instalatorul are acum pași, ca Setările, cu alegeri care se schimbă cu săgețile și Enter, fiecare cu explicația ei. VoiceOver aude literele tastate în căutare. Win-App e semnat cu un certificat propriu, ca permisiunea Accesibilitate să rămână și după actualizări.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
