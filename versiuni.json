@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.2.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.2.8/Win-App-0.2.8-Universal.pkg",
-      "sha256": "a68ff7ddaa5d05a988d05f68d44dd278b262f19e428c647f3f072df0f265fe19",
-      "marime": 6813222,
-      "noutati": "VoiceOver nu mai citește piesa care începe singură nici când ești în lista de redare: lista nu se mai reîncarcă și selecția stă pe loc; rândul piesei noi spune „se redă”. Tasta I spune numele piesei, apoi calitatea sunetului. Pe ecranul deck-ului, numele piesei are rândul lui, pe toată lățimea, sub cronometru, vumetru și logo, deasupra șinei de poziție.",
+      "versiune": "0.3.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.0/Win-App-0.3.0-Universal.pkg",
+      "sha256": "053fef576452d7a28113f81165013cb6dff4dddb107bf4b2218d007efdeea2d1",
+      "marime": 7072591,
+      "noutati": "Radio pe internet: aproape 5.000 de posturi din 181 de țări, toate verificate că pornesc, pe țări, cu căutare (tasta J caută în sursa aleasă). Lista de redare are jos două surse, Muzică locală și Radio, iar deck-ul are butoane noi pentru Radio și Setări (Comandă virgulă). Când adaugi multă muzică deodată, dublurile sunt sărite: același fișier, o copie din alt dosar sau o legătură spre el.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
