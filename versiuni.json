@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.7/A.D.T-1.5.7-Universal.pkg",
-      "sha256": "ade3490cd038aeaa38ea4f7daccb9300b8d8981f85c30fcbe7e6e70c0bbab9c5",
-      "marime": 201271752,
-      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
+      "versiune": "1.5.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.8/A.D.T-1.5.8-Universal.pkg",
+      "sha256": "552da11473fb337b59d50574359bce204a6c9b6f2fdb778b875f348dd7e677a0",
+      "marime": 201301653,
+      "noutati": "Descărcarea playlisturilor nu se mai blochează: dacă o piesă nu răspunde câteva minute, A.D.T o sare și continuă cu următoarea, iar la sfârșit descărcarea se închide singură. Lângă piesele fiecărui playlist apare un fișier .m3u8 cu toată lista, în ordine, care se deschide dintr-o dată în Win-App sau în alt player. Instalatorul are acum pași, ca Setările, cu alegeri care se schimbă cu săgețile și Enter.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
