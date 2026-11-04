@@ -9,7 +9,7 @@ Aplicații pentru Mac, gândite pentru a fi folosite complet cu VoiceOver și ta
 | **Mixer** | mixer pentru voce și muzică în apeluri și streaming |
 | **Real Meteo** | vremea și avertizările ANM în bara de meniu |
 | **Easy TV** (fostul TV Accesibil) | televiziune și radio gratuite din toată Europa, în 24 de limbi |
-| **Win-App** | player audio cu deck realist, egalizator de 10 benzi, FLAC hi-res și multe alte formate, scurtăturile clasice |
+| **Win-App** | player audio cu deck realist, egalizator de 10 benzi, FLAC hi-res și multe alte formate, scurtăturile clasice, radio pe internet (aproape 5.000 de posturi din toată lumea) |
 
 ## Instalare
 
