@@ -38,11 +38,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.9.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.5/Real-Meteo-Mac-1.9.5.pkg",
-      "sha256": "673252340c1dc300702c384b3621055bed517051e0e81ca7a84e7ba18279f82f",
-      "marime": 46767666,
-      "noutati": "Real Meteo pornește acum și pe Mac-urile cu procesor Intel cu macOS 11 Big Sur sau mai nou, la fel ca pe Apple Silicon. Până acum, pe Intel era nevoie de macOS 13.",
+      "versiune": "1.9.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.6/Real-Meteo-Mac-1.9.6.pkg",
+      "sha256": "6c8c7a98b7aa5eb81ecd089fd407aa4b53cdefc6ac99d0c83287388343b3c018",
+      "marime": 46782495,
+      "noutati": "Localizarea automată reparată, pe Intel și pe Apple Silicon: fereastra de permisiune apare și pe macOS mai vechi, poziția venită mai târziu nu se mai pierde, iar dacă Wi-Fi-ul e oprit aplicația îți spune să-l pornești. Fereastra se deschide mai repede.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
