@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.8.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.2/Blind-Spin-1.8.2-Universal.pkg",
-      "sha256": "c81db1ecc64fb8dc3cffa067840ee3e0731000e6c76ab6535808903c69ae37e6",
-      "marime": 254337401,
-      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
+      "versiune": "1.8.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.3/Blind-Spin-1.8.3-Universal.pkg",
+      "sha256": "49b191c9bc52a72dcf833dae740630dede6c141719213192f3626e4059d9b6d8",
+      "marime": 254364863,
+      "noutati": "Pornire mult mai rapidă: piesele 3D (platane, braț, butoane) se pregătesc la instalare și se păstrează pe disc; animația de deschidere nu le mai redesenează la fiecare mărime. Pe MacBook-urile cu Intel nu mai pornește placa video dedicată.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
