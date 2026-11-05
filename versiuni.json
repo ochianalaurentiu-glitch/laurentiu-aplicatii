@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.7.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.0/Mixer-5.7.0-Universal.pkg",
-      "sha256": "257915720f581de13f6ea618e14ff57173e2f9575f91b3cebe7f47bebcefac16",
-      "marime": 2018458,
-      "noutati": "Consolă 3D realistă, cu 6 fețe la alegere în Setări → Fețe: cursoare de mixer adevărate, buton rotativ, butoane și LED-uri, lumină de sus. Permisiunea pentru microfon se păstrează.",
+      "versiune": "5.7.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.1/Mixer-5.7.1-Universal.pkg",
+      "sha256": "8fa21ae82dd39fc6decf5780d687a6cc9b816be8016eb2550d353f0c31dc1c54",
+      "marime": 2045819,
+      "noutati": "Fereastra se deschide mai repede: consola 3D se păstrează pe disc, iar lista plăcilor de sunet se ordonează fără sute de cereri către sistem. Pe MacBook-urile cu Intel nu mai pornește placa video dedicată.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
