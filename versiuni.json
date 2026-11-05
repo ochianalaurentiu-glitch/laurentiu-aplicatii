@@ -50,11 +50,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.6/Easy-TV-2.2.6-Universal.pkg",
-      "sha256": "cfe6cad9c455db9fc3ac9c8ff8084ce3b854ec0e4fd017f59236bc10f935b16e",
-      "marime": 1977048,
-      "noutati": "Setări: la bife, starea nouă se aude o singură dată (o citește VoiceOver; anunțul suplimentar dubla vestea). Verificat pe Intel și pe Apple Silicon.",
+      "versiune": "2.2.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.7/Easy-TV-2.2.7-Universal.pkg",
+      "sha256": "5c5af056f16795e9765c18edc961c7d5f9db0933e2d0e0fe431749b5969122cb",
+      "marime": 1978859,
+      "noutati": "Animația de deschidere e mult mai ușoară pentru placa grafică; pe Mac-urile cu Intel, ecranul complet pornește după logo, ca deschiderea să nu mai fie sacadată.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
