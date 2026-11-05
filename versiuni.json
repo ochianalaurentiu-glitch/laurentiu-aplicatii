@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.2/Win-App-0.3.2-Universal.pkg",
-      "sha256": "6e8552c02bb3e6ef8229d0214d34d3b8745e23ac9174265721dafca918ab593b",
-      "marime": 7246653,
-      "noutati": "Egalizatorul: butonul Auto e înlocuit cu Salvează (presetarea ta, cu nume; și Option S) și sunt 19 presetări noi, 40 în total. Instalatorul nou are două pagini: întâi limba și acordul de licență, apoi opțiunile una sub alta (aspectul, locul, efectul și sunetul de pornire, boxele AirPlay, formatele deschise cu Win-App).",
+      "versiune": "0.3.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.3/Win-App-0.3.3-Universal.pkg",
+      "sha256": "535c84e7bed28ed28fe39e8f97b778dff93b1aebaea1c268855c9e36707d9cd2",
+      "marime": 7281227,
+      "noutati": "Pornire mult mai rapidă, mai ales pe Mac-urile cu Intel: aspectul 3D al deck-ului se pregătește la instalare și se păstrează pe disc, nu se mai desenează la fiecare deschidere. VoiceOver citește la deschidere descrierea logo-ului.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
