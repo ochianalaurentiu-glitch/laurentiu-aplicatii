@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.8/A.D.T-1.5.8-Universal.pkg",
-      "sha256": "552da11473fb337b59d50574359bce204a6c9b6f2fdb778b875f348dd7e677a0",
-      "marime": 201301653,
-      "noutati": "Descărcarea playlisturilor nu se mai blochează: dacă o piesă nu răspunde câteva minute, A.D.T o sare și continuă cu următoarea, iar la sfârșit descărcarea se închide singură. Lângă piesele fiecărui playlist apare un fișier .m3u8 cu toată lista, în ordine, care se deschide dintr-o dată în Win-App sau în alt player. Instalatorul are acum pași, ca Setările, cu alegeri care se schimbă cu săgețile și Enter.",
+      "versiune": "1.5.9",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.9/A.D.T-1.5.9-Universal.pkg",
+      "sha256": "11dcb49d66154afce9a9e334f5c4f92afece3dbddd9283a1fba586e1820bbb32",
+      "marime": 201300925,
+      "noutati": "Starea descărcării, scurtă: VoiceOver spune doar „Piesa 3 din 100, 45%”, „45%” la o piesă singură și „Gata, 98 din 100” la final, fără numele piesei sau al playlist-ului. Pornire mai rapidă: sunetul de deschidere nu se mai calculează la fiecare pornire, iar motorul de descărcare nu se mai recopiază la fiecare actualizare.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
