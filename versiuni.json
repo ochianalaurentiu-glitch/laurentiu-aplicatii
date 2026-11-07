@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.7.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.2/Mixer-5.7.2-Universal.pkg",
-      "sha256": "f58d67830456931886a94b4d6e9ba01fa70874080f897c8bf57f7a211f5262f9",
-      "marime": 2056325,
-      "noutati": "Pârâitul din apeluri, reparat: driverul Mixer Audio nu mai pierde sunet după câteva ore, deci nu mai trebuie să repornești Mixer. VoiceOver anunță acum bifele (stilurile, Anulare zgomot, aspectul, modurile). Actualizările vin singure: Mixer le descarcă în fundal și te întreabă o singură dată, Instalează acum sau Mai târziu.",
+      "versiune": "5.8.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.8.1/Mixer-5.8.1-Universal.pkg",
+      "sha256": "2acd6deac9f511eee58f051b915ac54ac4d0cd61c2af518db5eb3b480739e598",
+      "marime": 4514306,
+      "noutati": "Anulare zgomot mult mai bună: o rețea neuronală scoate și zgomotele care vin și pleacă (tastatura, vasele, televizorul), iar cât taci, microfonul tace, deci nu se mai aude nimeni din cameră. Butoanele lucrează la prima apăsare, cu Spațiu sau Enter. VoiceOver citește doar numele și valoarea; explicațiile sunt în manual, la Setări, Despre aplicație.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
