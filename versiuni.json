@@ -26,11 +26,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.7.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.1/Mixer-5.7.1-Universal.pkg",
-      "sha256": "8fa21ae82dd39fc6decf5780d687a6cc9b816be8016eb2550d353f0c31dc1c54",
-      "marime": 2045819,
-      "noutati": "Fereastra se deschide mai repede: consola 3D se păstrează pe disc, iar lista plăcilor de sunet se ordonează fără sute de cereri către sistem. Pe MacBook-urile cu Intel nu mai pornește placa video dedicată.",
+      "versiune": "5.7.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.7.2/Mixer-5.7.2-Universal.pkg",
+      "sha256": "f58d67830456931886a94b4d6e9ba01fa70874080f897c8bf57f7a211f5262f9",
+      "marime": 2056325,
+      "noutati": "Pârâitul din apeluri, reparat: driverul Mixer Audio nu mai pierde sunet după câteva ore, deci nu mai trebuie să repornești Mixer. VoiceOver anunță acum bifele (stilurile, Anulare zgomot, aspectul, modurile). Actualizările vin singure: Mixer le descarcă în fundal și te întreabă o singură dată, Instalează acum sau Mai târziu.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
