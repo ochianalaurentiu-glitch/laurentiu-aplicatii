@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.6/Win-App-0.3.6-Universal.pkg",
-      "sha256": "abe9207b7975e3e64f8d54c14cfe02f818cb3cbeb18a9b9b6cbffd2bf57b2e28",
-      "marime": 7299603,
-      "noutati": "Boxele AirPlay apar acum în lista de la butonul Boxe (Comandă Shift B) pe toate Mac-urile: Win-App le caută de la pornire, nu abia la deschiderea listei. Enter alege boxa și închide lista; Spațiu bifează mai multe boxe și lasă lista deschisă. Butonul nu mai trimite la Configurări sistem.",
+      "versiune": "0.3.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.7/Win-App-0.3.7-Universal.pkg",
+      "sha256": "9f22dc12c5d99d44cfba5fa995fd3a2618a847b460fd8655c766f248aa52da9e",
+      "marime": 7307786,
+      "noutati": "Deschiderea unei melodii din Finder nu mai închide aplicația. Dacă Win-App e deja pornit, melodia începe în fundal, iar fereastra în care lucrai rămâne în față; VoiceOver anunță piesa. Dacă Win-App era pe radio, trece singur la muzica ta și arată piesa în listă.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
