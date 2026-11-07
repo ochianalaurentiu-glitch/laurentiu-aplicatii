@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.4/Win-App-0.3.4-Universal.pkg",
-      "sha256": "664c07ffcb3bb5ddc92ad7cf23ad6dce86db024aaf6f27b2b22bfac01c9fe80e",
-      "marime": 7298391,
-      "noutati": "Butonul Boxe pe Mac-urile cu Intel: dacă lista AirPlay a lui Apple nu găsește nicio boxă, Win-App o închide singur și deschide Configurări sistem, la Sunet, Ieșire, unde boxele apar; Win-App trece singur pe boxa aleasă acolo, cu egalizator. Lista se deschide mai sigur pe macOS mai vechi.",
+      "versiune": "0.3.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.6/Win-App-0.3.6-Universal.pkg",
+      "sha256": "abe9207b7975e3e64f8d54c14cfe02f818cb3cbeb18a9b9b6cbffd2bf57b2e28",
+      "marime": 7299603,
+      "noutati": "Boxele AirPlay apar acum în lista de la butonul Boxe (Comandă Shift B) pe toate Mac-urile: Win-App le caută de la pornire, nu abia la deschiderea listei. Enter alege boxa și închide lista; Spațiu bifează mai multe boxe și lasă lista deschisă. Butonul nu mai trimite la Configurări sistem.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
