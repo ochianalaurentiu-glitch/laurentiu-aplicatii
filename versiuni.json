@@ -62,11 +62,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.3/Win-App-0.3.3-Universal.pkg",
-      "sha256": "535c84e7bed28ed28fe39e8f97b778dff93b1aebaea1c268855c9e36707d9cd2",
-      "marime": 7281227,
-      "noutati": "Pornire mult mai rapidă, mai ales pe Mac-urile cu Intel: aspectul 3D al deck-ului se pregătește la instalare și se păstrează pe disc, nu se mai desenează la fiecare deschidere. VoiceOver citește la deschidere descrierea logo-ului.",
+      "versiune": "0.3.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.4/Win-App-0.3.4-Universal.pkg",
+      "sha256": "664c07ffcb3bb5ddc92ad7cf23ad6dce86db024aaf6f27b2b22bfac01c9fe80e",
+      "marime": 7298391,
+      "noutati": "Butonul Boxe pe Mac-urile cu Intel: dacă lista AirPlay a lui Apple nu găsește nicio boxă, Win-App o închide singur și deschide Configurări sistem, la Sunet, Ieșire, unde boxele apar; Win-App trece singur pe boxa aleasă acolo, cu egalizator. Lista se deschide mai sigur pe macOS mai vechi.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
