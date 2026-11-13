@@ -37,6 +37,18 @@
         "x86_64"
       ]
     },
+    "playroom": {
+      "versiune": "0.2.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/playroom-0.2.0/Playroom-0.2.0-Universal.pkg",
+      "sha256": "ca96a023758fad7c92aa5daf4d70c9028db285567da0c4d477a486bd2212890c",
+      "marime": 289230,
+      "noutati": "Prima versiune. Client Mac neoficial pentru QuentinC's Playroom (qcsalon.net), cu mod rapid pentru VoiceOver: tastele merg direct în joc, iar aplicația spune pe loc ce e selectat și mesajele jocului. Interfața și mesajele jocurilor în română (Farkle tradus complet). Ține minte utilizatorul și parola în Keychain și se conectează singură; întrebările jocului te duc direct pe „Da”.",
+      "macosMinim": "13.0",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
+    },
     "real-meteo": {
       "versiune": "1.9.6",
       "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.6/Real-Meteo-Mac-1.9.6.pkg",
