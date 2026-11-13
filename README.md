@@ -7,6 +7,7 @@ Aplicații pentru Mac, gândite pentru a fi folosite complet cu VoiceOver și ta
 | **A.D.T** – Audio Downloader Tools | descarcă doar sunetul de pe YouTube, SoundCloud și multe alte site-uri |
 | **Blind Spin** | masă de DJ accesibilă, cu Auto DJ, efecte și treceri automate |
 | **Mixer** | mixer pentru voce și muzică în apeluri și streaming |
+| **Playroom** | client Mac neoficial pentru QuentinC's Playroom (qcsalon.net): peste 30 de jocuri de cărți, zaruri și masă, online, cu mod rapid pentru VoiceOver și interfața în română |
 | **Real Meteo** | vremea și avertizările ANM în bara de meniu |
 | **Easy TV** (fostul TV Accesibil) | televiziune și radio gratuite din toată Europa, în 24 de limbi |
 | **Win-App** | player audio cu deck realist, egalizator de 10 benzi, FLAC hi-res și multe alte formate, scurtăturile clasice, radio pe internet (aproape 5.000 de posturi din toată lumea), muzica pe boxe AirPlay |
