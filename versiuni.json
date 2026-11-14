@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.2",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.2/La-un-pahar-de-vorba-1.0.2-Universal.pkg",
-      "sha256": "a7869b41664a8a27db84d830ba3cc176a7501bec3bd65488599da24661122952",
-      "marime": 775243,
-      "noutati": "În Profil, la Actualizare, butonul „Caută actualizări” caută și instalează versiunea nouă a aplicației.",
+      "versiune": "1.0.3",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.3/La-un-pahar-de-vorba-1.0.3-Universal.pkg",
+      "sha256": "04cb927a9ba19ced84160437848c9fd547bd941f97a55a0a25c64caf47e258fc",
+      "marime": 775664,
+      "noutati": "Fără mesajul „Nu există chei de acces disponibile” în câmpurile de nume și parolă.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
