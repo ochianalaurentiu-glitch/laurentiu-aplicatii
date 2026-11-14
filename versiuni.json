@@ -37,6 +37,18 @@
         "x86_64"
       ]
     },
+    "la-un-pahar": {
+      "versiune": "1.0.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.0/La-un-pahar-de-vorba-1.0.0-Universal.pkg",
+      "sha256": "71d9f6d5c12924ed785f12e603113490945f9d099346634b00b1052c0ed6e9a5",
+      "marime": 774478,
+      "noutati": "Prima versiune: site-ul La un pahar de vorbă într-o aplicație Mac, cu ⇧⌘M pentru microfon din orice aplicație, iconiță în bara de meniu și fără încetinire în fundal cât ești într-o cameră.",
+      "macosMinim": "12.0",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
+    },
     "mixer": {
       "versiune": "6.1.5",
       "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-6.1.5/Mixer-6.1.5-Universal.pkg",
