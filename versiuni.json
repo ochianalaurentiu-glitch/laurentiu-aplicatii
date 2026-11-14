@@ -38,11 +38,11 @@
       ]
     },
     "mixer": {
-      "versiune": "5.8.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.8.1/Mixer-5.8.1-Universal.pkg",
-      "sha256": "2acd6deac9f511eee58f051b915ac54ac4d0cd61c2af518db5eb3b480739e598",
-      "marime": 4514306,
-      "noutati": "Anulare zgomot mult mai bună: o rețea neuronală scoate și zgomotele care vin și pleacă (tastatura, vasele, televizorul), iar cât taci, microfonul tace, deci nu se mai aude nimeni din cameră. Butoanele lucrează la prima apăsare, cu Spațiu sau Enter. VoiceOver citește doar numele și valoarea; explicațiile sunt în manual, la Setări, Despre aplicație.",
+      "versiune": "6.1.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-6.1.5/Mixer-6.1.5-Universal.pkg",
+      "sha256": "938ceee6030499010295f47ad2021d78330ef5e39e76e82592230b720a6855cd",
+      "marime": 4494062,
+      "noutati": "Versiune mare: Mixer are acum driverul lui, MixerVoce (dispozitivul „Mixer”), care îl înlocuiește pe vechiul Mixer Audio 2ch și nu mai are nevoie de Loopback. Două moduri: Streaming (48 kHz) și Audiție (192 kHz), plus efecte pentru voce: naturală, radio, prezentator și ecou. Sunetul nu se mai taie când procesorul e ocupat, iar motorul se reîmprospătează singur, doar cât taci. Verificarea driverului nu mai dă alarme false în liniște. După instalare, repornește Mac-ul.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
