@@ -50,11 +50,11 @@
       ]
     },
     "playroom": {
-      "versiune": "0.2.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/playroom-0.2.0/Playroom-0.2.0-Universal.pkg",
-      "sha256": "ca96a023758fad7c92aa5daf4d70c9028db285567da0c4d477a486bd2212890c",
-      "marime": 289230,
-      "noutati": "Prima versiune. Client Mac neoficial pentru QuentinC's Playroom (qcsalon.net), cu mod rapid pentru VoiceOver: tastele merg direct în joc, iar aplicația spune pe loc ce e selectat și mesajele jocului. Interfața și mesajele jocurilor în română (Farkle tradus complet). Ține minte utilizatorul și parola în Keychain și se conectează singură; întrebările jocului te duc direct pe „Da”.",
+      "versiune": "0.2.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/playroom-0.2.1/Playroom-0.2.1-Universal.pkg",
+      "sha256": "ba21c3ac8e923dcbc59885a6cf5e3b9a401fb70c07391bc44a3b485fad32b6e9",
+      "marime": 289839,
+      "noutati": "Traducerea în română, completată: lista de prieteni (disponibil, deconectat, mesaj privat, blochează, favorite), meniul mesei (masa publică, statistici, informații despre joc) și jocul de domino Trenul mexican (runde, trenuri, trage o piesă, sortează piesele). „Anterior” nu se mai confundă cu „Înapoi”.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
