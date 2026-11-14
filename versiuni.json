@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.1/La-un-pahar-de-vorba-1.0.1-Universal.pkg",
-      "sha256": "c4a0a61b386137bbc6e6a11441ae259bf33204d1527a4097cdcf65487c505f4f",
-      "marime": 775018,
-      "noutati": "Tastatura și VoiceOver intră direct în pagină: poți scrie numele și parola și navighezi site-ul fără să interacționezi întâi cu fereastra.",
+      "versiune": "1.0.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.2/La-un-pahar-de-vorba-1.0.2-Universal.pkg",
+      "sha256": "a7869b41664a8a27db84d830ba3cc176a7501bec3bd65488599da24661122952",
+      "marime": 775243,
+      "noutati": "În Profil, la Actualizare, butonul „Caută actualizări” caută și instalează versiunea nouă a aplicației.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
