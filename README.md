@@ -6,6 +6,7 @@ Aplicații pentru Mac, gândite pentru a fi folosite complet cu VoiceOver și ta
 |---|---|
 | **A.D.T** – Audio Downloader Tools | descarcă doar sunetul de pe YouTube, SoundCloud și multe alte site-uri |
 | **Blind Spin** | masă de DJ accesibilă, cu Auto DJ, efecte și treceri automate |
+| **Easy Books** | cititor de cărți cu voce: EPUB, PDF, Word, text și poze cu text, citite cu voci românești naturale sau cu vocile Mac-ului |
 | **Mixer** | mixer pentru voce și muzică în apeluri și streaming |
 | **Playroom** | client Mac neoficial pentru QuentinC's Playroom (qcsalon.net): peste 30 de jocuri de cărți, zaruri și masă, online, cu mod rapid pentru VoiceOver și interfața în română |
 | **Real Meteo** | vremea și avertizările ANM în bara de meniu |
