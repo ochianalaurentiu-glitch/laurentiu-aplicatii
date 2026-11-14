@@ -25,6 +25,18 @@
         "x86_64"
       ]
     },
+    "easy-books": {
+      "versiune": "0.3.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/easy-books-0.3.7/Easy-Books-0.3.7-Universal.pkg",
+      "sha256": "9f85dacc4c4d692a96df4b0ee9c82c4017613110f98dfb67865c8b3cb07ba227",
+      "marime": 500494122,
+      "noutati": "Prima versiune publică. Cititor de cărți cu voce: deschide EPUB, PDF, Word, text și poze cu text, le împarte pe capitole și le citește cu voci românești naturale (Liana, Raluca, Sanda, Lili, Mihai) sau cu vocile Mac-ului. Ține minte unde ai rămas în fiecare carte și își caută singură actualizările.",
+      "macosMinim": "13.0",
+      "procesoare": [
+        "arm64",
+        "x86_64"
+      ]
+    },
     "mixer": {
       "versiune": "5.8.1",
       "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-5.8.1/Mixer-5.8.1-Universal.pkg",
