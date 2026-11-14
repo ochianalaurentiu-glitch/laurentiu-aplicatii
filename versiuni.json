@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.0/La-un-pahar-de-vorba-1.0.0-Universal.pkg",
-      "sha256": "71d9f6d5c12924ed785f12e603113490945f9d099346634b00b1052c0ed6e9a5",
-      "marime": 774478,
-      "noutati": "Prima versiune: site-ul La un pahar de vorbă într-o aplicație Mac, cu ⇧⌘M pentru microfon din orice aplicație, iconiță în bara de meniu și fără încetinire în fundal cât ești într-o cameră.",
+      "versiune": "1.0.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.1/La-un-pahar-de-vorba-1.0.1-Universal.pkg",
+      "sha256": "c4a0a61b386137bbc6e6a11441ae259bf33204d1527a4097cdcf65487c505f4f",
+      "marime": 775018,
+      "noutati": "Tastatura și VoiceOver intră direct în pagină: poți scrie numele și parola și navighezi site-ul fără să interacționezi întâi cu fereastra.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
