@@ -74,11 +74,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.9.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.6/Real-Meteo-Mac-1.9.6.pkg",
-      "sha256": "6c8c7a98b7aa5eb81ecd089fd407aa4b53cdefc6ac99d0c83287388343b3c018",
-      "marime": 46782495,
-      "noutati": "Localizarea automată reparată, pe Intel și pe Apple Silicon: fereastra de permisiune apare și pe macOS mai vechi, poziția venită mai târziu nu se mai pierde, iar dacă Wi-Fi-ul e oprit aplicația îți spune să-l pornești. Fereastra se deschide mai repede.",
+      "versiune": "1.9.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.7/Real-Meteo-Mac-1.9.7.pkg",
+      "sha256": "9c364251b39870e0e411ad77f1ac721a98350f6a97a616332be78bd0e0fec81f",
+      "marime": 46783741,
+      "noutati": "Caută singur actualizări la fiecare pornire și le propune după câteva secunde.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
