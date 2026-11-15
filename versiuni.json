@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.4/La-un-pahar-de-vorba-1.0.4-Universal.pkg",
-      "sha256": "23cba1d48874aafb5102ee3be65f70140d28458094ef379db684708eee9f7698",
-      "marime": 776070,
-      "noutati": "Înainte să se închidă, aplicația întreabă „Închizi La un pahar de vorbă?” Da sau Nu (Enter = Da, Escape = Nu).",
+      "versiune": "1.0.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.5/La-un-pahar-de-vorba-1.0.5-Universal.pkg",
+      "sha256": "82ac3b70a750df62b5bd5836b2e3c3735322e58510dec606532d4b18b42523b8",
+      "marime": 788169,
+      "noutati": "În meniul Sunet poți alege ieșirea Mac-ului (difuzoare, căști, AirPods), microfonul și Mod muzică, apoi Aplică setarea.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
