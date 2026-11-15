@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.7/Win-App-0.3.7-Universal.pkg",
-      "sha256": "9f22dc12c5d99d44cfba5fa995fd3a2618a847b460fd8655c766f248aa52da9e",
-      "marime": 7307786,
-      "noutati": "Deschiderea unei melodii din Finder nu mai închide aplicația. Dacă Win-App e deja pornit, melodia începe în fundal, iar fereastra în care lucrai rămâne în față; VoiceOver anunță piesa. Dacă Win-App era pe radio, trece singur la muzica ta și arată piesa în listă.",
+      "versiune": "0.3.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.8/Win-App-0.3.8-Universal.pkg",
+      "sha256": "d43c2dbaf3082fcdf9b7995b5d7de6b0d613f65120d53d22743e0edc9bb3a1d7",
+      "marime": 7310649,
+      "noutati": "Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
