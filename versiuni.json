@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.9",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.9/A.D.T-1.5.9-Universal.pkg",
-      "sha256": "11dcb49d66154afce9a9e334f5c4f92afece3dbddd9283a1fba586e1820bbb32",
-      "marime": 201300925,
-      "noutati": "Starea descărcării, scurtă: VoiceOver spune doar „Piesa 3 din 100, 45%”, „45%” la o piesă singură și „Gata, 98 din 100” la final, fără numele piesei sau al playlist-ului. Pornire mai rapidă: sunetul de deschidere nu se mai calculează la fiecare pornire, iar motorul de descărcare nu se mai recopiază la fiecare actualizare.",
+      "versiune": "1.5.10",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.10/A.D.T-1.5.10-Universal.pkg",
+      "sha256": "90941938be6e94e20d1c22cd5889d7703c2aab19cada3d1ad5710261573353c9",
+      "marime": 201303438,
+      "noutati": "Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
