@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.9",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.9/La-un-pahar-de-vorba-1.0.9-Universal.pkg",
-      "sha256": "3ef854efc3c9ba6439c41e1f6eb22636bb10eedcfbbe0dc062f46cc08f3e4d54",
-      "marime": 804469,
-      "noutati": "Meniul Sunet: Ieșire, Microfon și Calitate sunet (Muzică, Calitate normală mono, Calitate scăzută).",
+      "versiune": "1.0.10",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.10/La-un-pahar-de-vorba-1.0.10-Universal.pkg",
+      "sha256": "c429fce1e40685e552cb6ca32b9fe83b1cef236b688566559f8020e6d858f6c9",
+      "marime": 804474,
+      "noutati": "Meniul Sunet (Ieșire, Microfon, Calitate sunet), holul nou cu căutare, camera așezată ca pe ecran.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
