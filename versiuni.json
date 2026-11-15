@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.10",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.10/La-un-pahar-de-vorba-1.0.10-Universal.pkg",
-      "sha256": "c429fce1e40685e552cb6ca32b9fe83b1cef236b688566559f8020e6d858f6c9",
-      "marime": 804474,
-      "noutati": "Meniul Sunet (Ieșire, Microfon, Calitate sunet), holul nou cu căutare, camera așezată ca pe ecran.",
+      "versiune": "1.0.11",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.11/La-un-pahar-de-vorba-1.0.11-Universal.pkg",
+      "sha256": "0ec984d8d37fc75a804ad8e4e752161f3711e5a1308423b87b81a5d858ffff4f",
+      "marime": 805681,
+      "noutati": "Sunet la deschiderea și închiderea aplicației, logo animat, profilul nou cu Afișare și sunet.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
