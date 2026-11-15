@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.6/La-un-pahar-de-vorba-1.0.6-Universal.pkg",
-      "sha256": "8b896eea226129a1cebe3bf3fe3decba7d5e7c9f7e967ad5eb0dd56700e5366a",
-      "marime": 797053,
-      "noutati": "Butonul Sunet deschide un meniu obișnuit de Mac (Ieșire, Microfon, Mod muzică): merge cu săgețile, VoiceOver spune „bifat” la aparatul folosit, iar alegerea se aplică pe loc.",
+      "versiune": "1.0.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.7/La-un-pahar-de-vorba-1.0.7-Universal.pkg",
+      "sha256": "557b3178a5cf38d980c2df60d4f464ad86bd90641a23d378fdc13a545959a1fe",
+      "marime": 799076,
+      "noutati": "În meniul Sunet, Calitate: Muzică (stereo), Standard (mono, pentru vorbit) sau Calitate scăzută, ca în Clubdeck.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
