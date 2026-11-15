@@ -86,11 +86,11 @@
       ]
     },
     "tv-accesibil": {
-      "versiune": "2.2.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.2.7/Easy-TV-2.2.7-Universal.pkg",
-      "sha256": "5c5af056f16795e9765c18edc961c7d5f9db0933e2d0e0fe431749b5969122cb",
-      "marime": 1978859,
-      "noutati": "Animația de deschidere e mult mai ușoară pentru placa grafică; pe Mac-urile cu Intel, ecranul complet pornește după logo, ca deschiderea să nu mai fie sacadată.",
+      "versiune": "2.3.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/tv-accesibil-2.3.1/Easy-TV-2.3.1-Universal.pkg",
+      "sha256": "a00c51ac49bcdfe4fabfa71de1cdae7ec0b9195a8bda4b9282cded314f158dbd",
+      "marime": 1734953,
+      "noutati": "Doar televiziune: radioul a fost scos, fereastra e refăcută (sus căutarea, în stânga țara și lista). Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
