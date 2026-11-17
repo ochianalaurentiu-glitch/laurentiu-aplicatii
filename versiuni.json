@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.8/Win-App-0.3.8-Universal.pkg",
-      "sha256": "d43c2dbaf3082fcdf9b7995b5d7de6b0d613f65120d53d22743e0edc9bb3a1d7",
-      "marime": 7310649,
-      "noutati": "Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
+      "versiune": "0.3.10",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.10/Win-App-0.3.10-Universal.pkg",
+      "sha256": "161c796aeddb6c4dbe1b489a298d8e2fa9bb2723af35094256906516fae60a0b",
+      "marime": 7319422,
+      "noutati": "Butonul nou „Înlocuiește lista”, pe lista de redare: pornit, ce deschizi din Finder (un playlist sau melodii alese) rămâne singur în listă; oprit, se adaugă la sfârșitul listei.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
