@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.6/Instaleaza-Win-App-0.9.6.exe",
-      "sha256": "64d61780288161c3d12d14dea3961cefa0879dee7aff19b041d360b5f48d6ceb",
-      "marime": 90863478,
-      "noutati": "Cât cântă muzica, calculatorul nu adoarme, nici pe baterie; ecranul se poate stinge.",
+      "versiune": "0.9.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.7/Instaleaza-Win-App-0.9.7.exe",
+      "sha256": "3e47ff13ae57c0b4f03d3f204a3103569a8216c08660a5c6ab8be9232f8a6649",
+      "marime": 90857590,
+      "noutati": "Lista de redare nu mai iese din fereastră când egalizatorul e ascuns. AirPlay mai sigur.",
       "platforma": "windows"
     }
   }
