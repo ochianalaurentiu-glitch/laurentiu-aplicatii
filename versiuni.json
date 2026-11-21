@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.0/Instaleaza-Win-App-0.11.0.exe",
-      "sha256": "7618203c222ededc6d5427be8a47ba8ee56a23345dac821bf81b9a2ac5788b5d",
-      "marime": 90925765,
-      "noutati": "Hi-Fi în rețea: al patrulea grup în Proiectare, pentru amplificatoarele și playerele de rețea (Hegel, WiiM, Denon, Marantz, Yamaha, Cambridge, Naim, Sonos și altele). Primesc fișierul original, fără pierderi; DSD nativ dacă îl știu, altfel PCM de 24 de biți. În AirPlay, perechea stereo de HomePod cântă acum pe amândouă boxele.",
+      "versiune": "0.11.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.1/Instaleaza-Win-App-0.11.1.exe",
+      "sha256": "243cc3e10249773de2390a3e73d262715bcf14dcdc251f8fa18773c4f111169c",
+      "marime": 90938259,
+      "noutati": "Volumul nu se mai anunță când îl schimbi (procentul se spune doar când ajungi pe butonul de volum), iar piesele nu se mai anunță singure: le afli cu tasta I sau din listă. Plus Hi-Fi în rețea, DSD și perechea stereo HomePod din 0.11.0.",
       "platforma": "windows"
     }
   }
