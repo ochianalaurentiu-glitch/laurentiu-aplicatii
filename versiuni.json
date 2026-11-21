@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.5/Instaleaza-Win-App-0.9.5.exe",
-      "sha256": "d3d938f5518fba7d080f1972cdc5d4aa75dfe3e888bcb0f35ec680c3ded272c7",
-      "marime": 90863628,
-      "noutati": "Verificarea de pe Mac rămâne bifată, și după repornire, până o debifezi.",
+      "versiune": "0.9.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.6/Instaleaza-Win-App-0.9.6.exe",
+      "sha256": "64d61780288161c3d12d14dea3961cefa0879dee7aff19b041d360b5f48d6ceb",
+      "marime": 90863478,
+      "noutati": "Cât cântă muzica, calculatorul nu adoarme, nici pe baterie; ecranul se poate stinge.",
       "platforma": "windows"
     }
   }
