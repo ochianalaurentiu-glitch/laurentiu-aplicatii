@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.4/Instaleaza-Win-App-0.9.4.exe",
-      "sha256": "89ef1f8ef80a3c2e550dc33231192e53a1c6349aa1634b3d7ee9e2844503344c",
-      "marime": 90859548,
-      "noutati": "Verificarea de pe Mac: în Setări, la Despre aplicație și actualizări, o bifă care lasă Mac-ul să vadă fereastra și jurnalele, o oră, doar în rețeaua de acasă.",
+      "versiune": "0.9.5",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.5/Instaleaza-Win-App-0.9.5.exe",
+      "sha256": "d3d938f5518fba7d080f1972cdc5d4aa75dfe3e888bcb0f35ec680c3ded272c7",
+      "marime": 90863628,
+      "noutati": "Verificarea de pe Mac rămâne bifată, și după repornire, până o debifezi.",
       "platforma": "windows"
     }
   }
