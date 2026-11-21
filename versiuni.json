@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.10.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.10.1/Instaleaza-Win-App-0.10.1.exe",
-      "sha256": "3d4c36baf7cba81b30ee61b660be837c0082cb8f76f4389badb11889a6dd0fb6",
-      "marime": 90914988,
-      "noutati": "Boxele AirPlay și Chromecast cu același nume apar acum toate în Proiectare (a doua ca „Nume (2)”). Pe lângă asta, muzica din rețea, lista simplificată și deck-ul în ordinea importanței din 0.10.0.",
+      "versiune": "0.11.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.0/Instaleaza-Win-App-0.11.0.exe",
+      "sha256": "7618203c222ededc6d5427be8a47ba8ee56a23345dac821bf81b9a2ac5788b5d",
+      "marime": 90925765,
+      "noutati": "Hi-Fi în rețea: al patrulea grup în Proiectare, pentru amplificatoarele și playerele de rețea (Hegel, WiiM, Denon, Marantz, Yamaha, Cambridge, Naim, Sonos și altele). Primesc fișierul original, fără pierderi; DSD nativ dacă îl știu, altfel PCM de 24 de biți. În AirPlay, perechea stereo de HomePod cântă acum pe amândouă boxele.",
       "platforma": "windows"
     }
   }
