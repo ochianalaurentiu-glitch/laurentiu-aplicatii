@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.3/Instaleaza-Win-App-0.9.3.exe",
-      "sha256": "827919c3db3d7f4016f6b5cd6aa3971a7c2337b7844fed20d838017c26e63561",
-      "marime": 90869400,
-      "noutati": "Lista de redare ca pe Mac, cu Radio în listă și butonul Înlocuiește lista. Proiectare caută boxele în fundal. Fără pătratul alb la deschidere. Plus multe reparații: formatele APE, WavPack și module, traducerile, tastele, AirPlay și Chromecast.",
+      "versiune": "0.9.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.4/Instaleaza-Win-App-0.9.4.exe",
+      "sha256": "89ef1f8ef80a3c2e550dc33231192e53a1c6349aa1634b3d7ee9e2844503344c",
+      "marime": 90859548,
+      "noutati": "Verificarea de pe Mac: în Setări, la Despre aplicație și actualizări, o bifă care lasă Mac-ul să vadă fereastra și jurnalele, o oră, doar în rețeaua de acasă.",
       "platforma": "windows"
     }
   }
