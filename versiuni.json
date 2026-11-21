@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.0/Instaleaza-Win-App-0.9.0.exe",
-      "sha256": "736a812e875fc53314c29c82fdc4c6f8206e9e58549850cd878050d0beabac68",
-      "marime": 90849721,
-      "noutati": "Când oprești boxa AirPlay, sunetul revine pe calculator în câteva secunde. Butoanele boxelor și ale telecomenzilor comandă Win-App (următoarea, anterioara, pauză, volum), și cu Siri. Pe Chromecast, butoanele boxei și Google Asistent schimbă piesa.",
+      "versiune": "0.9.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.1/Instaleaza-Win-App-0.9.1.exe",
+      "sha256": "a029a84e771612392d322793ef8f11bddd13cfb9c59c4e21a536cb1e2ef2a59b",
+      "marime": 90852112,
+      "noutati": "Când oprești boxa AirPlay de la buton sau de la telecomandă, sunetul revine imediat pe calculator. Consum mai mic: beculețele și vinilul se desenează mai rar în pauză și cu fereastra în spate.",
       "platforma": "windows"
     }
   }
