@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.7/Instaleaza-Win-App-0.9.7.exe",
-      "sha256": "3e47ff13ae57c0b4f03d3f204a3103569a8216c08660a5c6ab8be9232f8a6649",
-      "marime": 90857590,
-      "noutati": "Lista de redare nu mai iese din fereastră când egalizatorul e ascuns. AirPlay mai sigur.",
+      "versiune": "0.9.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.8/Instaleaza-Win-App-0.9.8.exe",
+      "sha256": "894eb24a3e5e8a33c0534dd63df8cfbe484de1f11799a9c05cfcdc7078bc747d",
+      "marime": 90856759,
+      "noutati": "Instalatoarele vechi descărcate la actualizări se șterg singure la pornire.",
       "platforma": "windows"
     }
   }
