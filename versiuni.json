@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.1/Instaleaza-Win-App-0.11.1.exe",
-      "sha256": "243cc3e10249773de2390a3e73d262715bcf14dcdc251f8fa18773c4f111169c",
-      "marime": 90938259,
-      "noutati": "Volumul nu se mai anunță când îl schimbi (procentul se spune doar când ajungi pe butonul de volum), iar piesele nu se mai anunță singure: le afli cu tasta I sau din listă. Plus Hi-Fi în rețea, DSD și perechea stereo HomePod din 0.11.0.",
+      "versiune": "0.11.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.2/Instaleaza-Win-App-0.11.2.exe",
+      "sha256": "973f5ad638f062c3ab3a4ef3a0af24322e288a4ae54da61193929fc783741e0e",
+      "marime": 90935678,
+      "noutati": "În Proiectare, „Hi-Fi în rețea” e acum ultimul grup. Plus din 0.11.1: volumul și piesele nu se mai anunță singure; din 0.11.0: Hi-Fi în rețea, DSD, perechea stereo HomePod.",
       "platforma": "windows"
     }
   }
