@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.8.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.8.0/Instaleaza-Win-App-0.8.0.exe",
-      "sha256": "913181e5bb6341fb8d0d2931b95fff335cf3a119013b6671fe73bee7e2b5c576",
-      "marime": 90861065,
-      "noutati": "Win-App vorbește acum 24 de limbi: româna și 23 din Uniunea Europeană (Setări > Limbă). Numele mici sub butoane, lumina de sus, aceeași culoare pe ecran și în listă, vinilul care se învârte mereu, MIDI și explicația numelui în Despre aplicație.",
+      "versiune": "0.9.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.0/Instaleaza-Win-App-0.9.0.exe",
+      "sha256": "736a812e875fc53314c29c82fdc4c6f8206e9e58549850cd878050d0beabac68",
+      "marime": 90849721,
+      "noutati": "Când oprești boxa AirPlay, sunetul revine pe calculator în câteva secunde. Butoanele boxelor și ale telecomenzilor comandă Win-App (următoarea, anterioara, pauză, volum), și cu Siri. Pe Chromecast, butoanele boxei și Google Asistent schimbă piesa.",
       "platforma": "windows"
     }
   }
