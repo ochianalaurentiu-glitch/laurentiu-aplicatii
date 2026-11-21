@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.10",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.10/Win-App-0.3.10-Universal.pkg",
-      "sha256": "161c796aeddb6c4dbe1b489a298d8e2fa9bb2723af35094256906516fae60a0b",
-      "marime": 7319422,
-      "noutati": "Butonul nou „Înlocuiește lista”, pe lista de redare: pornit, ce deschizi din Finder (un playlist sau melodii alese) rămâne singur în listă; oprit, se adaugă la sfârșitul listei.",
+      "versiune": "0.3.13",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.13/Win-App-0.3.13-Universal.pkg",
+      "sha256": "673fce7c8320d2a666b4fecb127a21cb3292b855a8fae24c10f83676c226fe7c",
+      "marime": 7705798,
+      "noutati": "Muzică din rețea: butonul nou „Rețea” în listă, cu calculatoarele, dosarele partajate și serverele media din casă. Hi-Fi în rețea (meniul Online sau Comandă Shift H): amplificatoarele și playerele de rețea primesc fișierul original, fără pierderi; DSD nativ dacă îl știu, altfel PCM de 24 de biți. Plus egalizatorul simplificat (presetări în ordine alfabetică, Dezactivat primul).",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
