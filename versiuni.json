@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.8/Instaleaza-Win-App-0.9.8.exe",
-      "sha256": "894eb24a3e5e8a33c0534dd63df8cfbe484de1f11799a9c05cfcdc7078bc747d",
-      "marime": 90856759,
-      "noutati": "Instalatoarele vechi descărcate la actualizări se șterg singure la pornire.",
+      "versiune": "0.9.9",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.9/Instaleaza-Win-App-0.9.9.exe",
+      "sha256": "3f09bfc799c08495a914c49a8b8c242a047cce28a6c83564cbfc56c500da4ca4",
+      "marime": 90869260,
+      "noutati": "După actualizare, Win-App pornește singur din nou, de unde ai rămas.",
       "platforma": "windows"
     }
   }
