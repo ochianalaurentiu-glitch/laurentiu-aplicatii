@@ -108,6 +108,14 @@
         "arm64",
         "x86_64"
       ]
+    },
+    "winapp-windows": {
+      "versiune": "0.3.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.3.2/Instaleaza-Win-App-0.3.2.exe",
+      "sha256": "1cc25798a8ed6fbbacbdc2f5385049e7873bd6882858c29d538f2b9801b63d94",
+      "marime": 60166689,
+      "noutati": "Prima versiune publică pentru Windows 11: arată ca pe Mac (6 fețe, ecran, butoane), Setări, Boxe cu Chromecast, trecere lină între piese, volum de oriunde cu Control săgeți și actualizări din aplicație.",
+      "platforma": "windows"
     }
   }
 }
