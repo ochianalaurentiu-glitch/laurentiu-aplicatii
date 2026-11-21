@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.9.9",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.9.9/Instaleaza-Win-App-0.9.9.exe",
-      "sha256": "3f09bfc799c08495a914c49a8b8c242a047cce28a6c83564cbfc56c500da4ca4",
-      "marime": 90869260,
-      "noutati": "După actualizare, Win-App pornește singur din nou, de unde ai rămas.",
+      "versiune": "0.10.0",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.10.0/Instaleaza-Win-App-0.10.0.exe",
+      "sha256": "854c468649c9be7f7c0bb09e29a72e972c5643ee016bf467a6408c8c06a0e148",
+      "marime": 90897774,
+      "noutati": "Muzică din rețea: a treia sursă în listă, „Rețea”, cu calculatoarele, NAS-urile și serverele media din casă. Lista e mai simplă (meniul ei e pe tasta de meniu), iar deck-ul are butoanele în ordinea importanței, cu Setări ultimul.",
       "platforma": "windows"
     }
   }
