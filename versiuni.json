@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.3",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.3/Instaleaza-Win-App-0.11.3.exe",
-      "sha256": "3831bafb3b4af86e6550b742a342846db26a59a2acfec54be195c8b4e383000e",
-      "marime": 90942879,
-      "noutati": "În Proiectare, ultimul grup se numește acum „Hi-Fi Audio”: amplificatoarele și playerele de rețea, care primesc fișierul original, fără pierderi. Volumul și piesele nu se mai anunță singure (piesa o afli cu tasta I).",
+      "versiune": "0.11.4",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.4/Instaleaza-Win-App-0.11.4.exe",
+      "sha256": "2377355566a9fdd2a22cbf76bc56872b743b42d68a771e5d193346cd3f4e9e6f",
+      "marime": 90940078,
+      "noutati": "Proiectare are acum doar Bluetooth, AirPlay, Chromecast și Hi-Fi Audio. Ca să revii pe boxele sau căștile calculatorului, apeși Enter pe sursa care se aude acum: muzica merge mai departe pe calculator, din același loc.",
       "platforma": "windows"
     }
   }
