@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.10.0",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.10.0/Instaleaza-Win-App-0.10.0.exe",
-      "sha256": "854c468649c9be7f7c0bb09e29a72e972c5643ee016bf467a6408c8c06a0e148",
-      "marime": 90897774,
-      "noutati": "Muzică din rețea: a treia sursă în listă, „Rețea”, cu calculatoarele, NAS-urile și serverele media din casă. Lista e mai simplă (meniul ei e pe tasta de meniu), iar deck-ul are butoanele în ordinea importanței, cu Setări ultimul.",
+      "versiune": "0.10.1",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.10.1/Instaleaza-Win-App-0.10.1.exe",
+      "sha256": "3d4c36baf7cba81b30ee61b660be837c0082cb8f76f4389badb11889a6dd0fb6",
+      "marime": 90914988,
+      "noutati": "Boxele AirPlay și Chromecast cu același nume apar acum toate în Proiectare (a doua ca „Nume (2)”). Pe lângă asta, muzica din rețea, lista simplificată și deck-ul în ordinea importanței din 0.10.0.",
       "platforma": "windows"
     }
   }
