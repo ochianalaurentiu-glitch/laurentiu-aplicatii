@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.13",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.13/Win-App-0.3.13-Universal.pkg",
-      "sha256": "673fce7c8320d2a666b4fecb127a21cb3292b855a8fae24c10f83676c226fe7c",
-      "marime": 7705798,
-      "noutati": "Muzică din rețea: butonul nou „Rețea” în listă, cu calculatoarele, dosarele partajate și serverele media din casă. Hi-Fi în rețea (meniul Online sau Comandă Shift H): amplificatoarele și playerele de rețea primesc fișierul original, fără pierderi; DSD nativ dacă îl știu, altfel PCM de 24 de biți. Plus egalizatorul simplificat (presetări în ordine alfabetică, Dezactivat primul).",
+      "versiune": "0.3.14",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.14/Win-App-0.3.14-Universal.pkg",
+      "sha256": "977e985533e27c98663077db574b3be2ae4e078a055366351a09b86d4cc43e42",
+      "marime": 8142881,
+      "noutati": "Butonul Boxe se numește acum Proiectare și deschide o listă cu Bluetooth, AirPlay, Chromecast și Hi-Fi Audio, ca pe Windows; AirPlay și Chromecast trimit sunetul direct din Win-App (la AirPlay și cu egalizator); Enter pe sursa care cântă te întoarce pe Mac. Butoanele de pe deck și din listă sunt în ordinea de pe Windows. Ca să găsească boxele, Win-App are nevoie de voie la Setări sistem › Confidențialitate și securitate › Rețea locală.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
