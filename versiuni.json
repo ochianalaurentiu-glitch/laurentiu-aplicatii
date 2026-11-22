@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.5/Instaleaza-Win-App-0.11.5.exe",
-      "sha256": "0e89ddea7687407f6107936b02c9ecb90ff3ecd5654a269b71158c291e45614b",
-      "marime": 90936093,
-      "noutati": "Volumul merge acum din 1 în 1 la sută cu săgețile simple, fără Shift sau Control. Dacă ții tasta apăsată, volumul urcă sau coboară încet, nu sare dintr-odată la maxim.",
+      "versiune": "0.11.6",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.6/Instaleaza-Win-App-0.11.6.exe",
+      "sha256": "4ddbdc4cb6994370021883dd4546afc3fca136eb3f387116afeb84a3b2112c6a",
+      "marime": 90937537,
+      "noutati": "Control săgeată dreapta și stânga schimbă piesa de oriunde din fereastră. Derularea cu săgețile nu mai spune minutele. La Shift L (Adaugă un dosar), Enter pe un dosar îl încarcă tot; săgeată dreapta intră în dosar, săgeată stânga urcă. Volumul merge din 1 în 1 și urcă încet când ții tasta apăsată.",
       "platforma": "windows"
     }
   }
