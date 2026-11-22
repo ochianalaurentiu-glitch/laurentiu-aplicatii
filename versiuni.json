@@ -112,9 +112,9 @@
     "winapp-windows": {
       "versiune": "0.11.7",
       "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.7/Instaleaza-Win-App-0.11.7.exe",
-      "sha256": "523c64c467fe0c9a828e1725f705fc6cfdf3fc8acc1a116ed626e944a38e4ca5",
-      "marime": 90942649,
-      "noutati": "Lista din Proiectare e în ordine alfabetică: și boxele Bluetooth, iar perechile AirPlay nu mai ies inversate.",
+      "sha256": "a232130e468a6e0813467119e87d934adcf13fc26f6dcf2fb6281423e955e498",
+      "marime": 90931969,
+      "noutati": "În Proiectare, grupurile și boxele sunt în ordine alfabetică (AirPlay, Bluetooth, Chromecast, apoi Hi-Fi Audio); perechile AirPlay nu mai ies inversate.",
       "platforma": "windows"
     }
   }
