@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.6",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.6/Instaleaza-Win-App-0.11.6.exe",
-      "sha256": "4ddbdc4cb6994370021883dd4546afc3fca136eb3f387116afeb84a3b2112c6a",
-      "marime": 90937537,
-      "noutati": "Control săgeată dreapta și stânga schimbă piesa de oriunde din fereastră. Derularea cu săgețile nu mai spune minutele. La Shift L (Adaugă un dosar), Enter pe un dosar îl încarcă tot; săgeată dreapta intră în dosar, săgeată stânga urcă. Volumul merge din 1 în 1 și urcă încet când ții tasta apăsată.",
+      "versiune": "0.11.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.7/Instaleaza-Win-App-0.11.7.exe",
+      "sha256": "523c64c467fe0c9a828e1725f705fc6cfdf3fc8acc1a116ed626e944a38e4ca5",
+      "marime": 90942649,
+      "noutati": "Lista din Proiectare e în ordine alfabetică: și boxele Bluetooth, iar perechile AirPlay nu mai ies inversate.",
       "platforma": "windows"
     }
   }
