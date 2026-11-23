@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.15",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.15/Win-App-0.3.15-Universal.pkg",
-      "sha256": "4bd8ae15f34920aa8ff8317e829d4e09a3a66f208cd5b1ec52d281bb2e6d8927",
-      "marime": 8143074,
-      "noutati": "Volumul merge din 1 în 1 și urcă încet când ții tasta apăsată. Comandă săgeată stânga sau dreapta schimbă piesa de oriunde. Derularea nu mai spune minutele.",
+      "versiune": "0.3.16",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.16/Win-App-0.3.16-Universal.pkg",
+      "sha256": "328ceb5ae38cd104876633af2506e9c6df19f87fec2b79be367b0e901b9a2f09",
+      "marime": 8144563,
+      "noutati": "Volumul merge acum din 3 în 3 și, când ții tasta apăsată, urcă mult mai repede, cam 30 la sută pe secundă. În Proiectare, grupurile sunt în ordine alfabetică: AirPlay, Bluetooth, Chromecast, Hi-Fi Audio.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
