@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.17",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.17/Win-App-0.3.17-Universal.pkg",
-      "sha256": "5affa82a2fdce07cab3b6c1338e5865e777dbcbb886df3fee6aeaff29b77112c",
-      "marime": 8145560,
-      "noutati": "Volumul urcă din nou și pe boxele AirPlay, Chromecast și Hi-Fi: boxa nu-l mai trage înapoi în jos când ții tasta apăsată.",
+      "versiune": "0.3.18",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.18/Win-App-0.3.18-Universal.pkg",
+      "sha256": "8e958acc1378e1505d3d06f6f5d12b844b35c11144e3e0f5543a0a5412f97837",
+      "marime": 8157928,
+      "noutati": "Egalizatorul are lista Presetări: săgețile aleg presetarea pe loc, iar Salvează apare doar după ce schimbi tu o bandă. Intensitatea are trei trepte, Scăzută, Normală și Ridicată, care se aleg direct cu săgețile și nu mai coboară niciodată sunetul. Volumul și piesa nouă nu se mai anunță.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
