@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.16",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.16/Win-App-0.3.16-Universal.pkg",
-      "sha256": "328ceb5ae38cd104876633af2506e9c6df19f87fec2b79be367b0e901b9a2f09",
-      "marime": 8144563,
-      "noutati": "Volumul merge acum din 3 în 3 și, când ții tasta apăsată, urcă mult mai repede, cam 30 la sută pe secundă. În Proiectare, grupurile sunt în ordine alfabetică: AirPlay, Bluetooth, Chromecast, Hi-Fi Audio.",
+      "versiune": "0.3.17",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.17/Win-App-0.3.17-Universal.pkg",
+      "sha256": "5affa82a2fdce07cab3b6c1338e5865e777dbcbb886df3fee6aeaff29b77112c",
+      "marime": 8145560,
+      "noutati": "Volumul urcă din nou și pe boxele AirPlay, Chromecast și Hi-Fi: boxa nu-l mai trage înapoi în jos când ții tasta apăsată.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
