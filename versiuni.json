@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.9",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.9/Instaleaza-Win-App-0.11.9.exe",
-      "sha256": "50c0a4cd2cd02d130ce70fc7fb190f95fed7147bb9aee3428ebf9f6ea4643f1a",
-      "marime": 90946182,
-      "noutati": "Win-App se aude acum la fel de tare ca celelalte programe: aducerea pieselor la același nivel nu le mai coboară mult. Volumul urcă din nou și pe boxele AirPlay, Chromecast și Hi-Fi.",
+      "versiune": "0.11.10",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.10/Instaleaza-Win-App-0.11.10.exe",
+      "sha256": "14bebd8055c61701efab3b906ff398d0fc40e463c83f405adc3d6c531ac7d9a6",
+      "marime": 90933222,
+      "noutati": "Egalizatorul are lista Presetări: săgețile aleg presetarea pe loc, iar Salvează apare doar după ce schimbi tu o bandă. Intensitatea are trei trepte, Scăzută, Normală și Ridicată, care se aleg direct cu săgețile și nu mai coboară niciodată sunetul. Volumul și piesa nouă nu se mai anunță.",
       "platforma": "windows"
     }
   }
