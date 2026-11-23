@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.19",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.19/Win-App-0.3.19-Universal.pkg",
-      "sha256": "7315fdbe2f5a255cf6fd6441678f25a2813abd98fa1e5d02db24b5f0f0e150fe",
-      "marime": 8337514,
-      "noutati": "Jos sunt acum doar două butoane: Muzică și Radio. Muzică deschide un meniu cu muzica locală, muzica din rețea și muzica din cloud. În cloud, cu contul La un pahar de vorbă, îți urci muzica (până la 5 GB), o asculți și o ștergi; Enter pe un dosar îl pornește tot. Radio are taburile Toate și Favorite: tasta F pune un post la favorite sau îl scoate, iar Delete îl scoate din Favorite.",
+      "versiune": "0.3.21",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.21/Win-App-0.3.21-Universal.pkg",
+      "sha256": "4d9a896aa9d3b85186a75d6352ba87cd2028d6e4f0f008ff6e2119c9489c5008",
+      "marime": 8340755,
+      "noutati": "Intensitatea a fost scoasă: piesele cântă la nivelul lor original. A revenit glisorul PRE din stânga egalizatorului, de la −12 la +12 dB, care se aplică pe loc piesei care cântă.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
