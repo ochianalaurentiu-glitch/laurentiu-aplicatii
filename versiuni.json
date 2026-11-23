@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.8",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.8/Instaleaza-Win-App-0.11.8.exe",
-      "sha256": "d1ae2f258e1aa7c897b35dc65be6db934c160eaa89fd197ae71fab445b17ba1c",
-      "marime": 90937723,
-      "noutati": "Volumul merge acum din 3 în 3 și, când ții tasta apăsată, urcă mult mai repede, cam 30 la sută pe secundă.",
+      "versiune": "0.11.9",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.9/Instaleaza-Win-App-0.11.9.exe",
+      "sha256": "50c0a4cd2cd02d130ce70fc7fb190f95fed7147bb9aee3428ebf9f6ea4643f1a",
+      "marime": 90946182,
+      "noutati": "Win-App se aude acum la fel de tare ca celelalte programe: aducerea pieselor la același nivel nu le mai coboară mult. Volumul urcă din nou și pe boxele AirPlay, Chromecast și Hi-Fi.",
       "platforma": "windows"
     }
   }
