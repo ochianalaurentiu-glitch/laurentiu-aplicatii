@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.7/Instaleaza-Win-App-0.11.7.exe",
-      "sha256": "a232130e468a6e0813467119e87d934adcf13fc26f6dcf2fb6281423e955e498",
-      "marime": 90931969,
-      "noutati": "În Proiectare, grupurile și boxele sunt în ordine alfabetică (AirPlay, Bluetooth, Chromecast, apoi Hi-Fi Audio); perechile AirPlay nu mai ies inversate.",
+      "versiune": "0.11.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.8/Instaleaza-Win-App-0.11.8.exe",
+      "sha256": "d1ae2f258e1aa7c897b35dc65be6db934c160eaa89fd197ae71fab445b17ba1c",
+      "marime": 90937723,
+      "noutati": "Volumul merge acum din 3 în 3 și, când ții tasta apăsată, urcă mult mai repede, cam 30 la sută pe secundă.",
       "platforma": "windows"
     }
   }
