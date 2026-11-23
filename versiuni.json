@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.10",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.10/Instaleaza-Win-App-0.11.10.exe",
-      "sha256": "14bebd8055c61701efab3b906ff398d0fc40e463c83f405adc3d6c531ac7d9a6",
-      "marime": 90933222,
-      "noutati": "Egalizatorul are lista Presetări: săgețile aleg presetarea pe loc, iar Salvează apare doar după ce schimbi tu o bandă. Intensitatea are trei trepte, Scăzută, Normală și Ridicată, care se aleg direct cu săgețile și nu mai coboară niciodată sunetul. Volumul și piesa nouă nu se mai anunță.",
+      "versiune": "0.11.11",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.11/Instaleaza-Win-App-0.11.11.exe",
+      "sha256": "8d956d77f2e4aad0f9d96b612030112aeab92f1137f6667ecab5bbfaaefaea55",
+      "marime": 90966277,
+      "noutati": "Jos sunt acum doar două butoane: Muzică și Radio. Muzică deschide un meniu cu muzica locală, muzica din rețea și muzica din cloud. În cloud, cu contul La un pahar de vorbă, îți urci muzica (până la 5 GB), o asculți și o ștergi; Enter pe un dosar îl pornește tot. Radio are taburile Toate și Favorite: tasta F pune un post la favorite sau îl scoate, iar Delete îl scoate din Favorite.",
       "platforma": "windows"
     }
   }
