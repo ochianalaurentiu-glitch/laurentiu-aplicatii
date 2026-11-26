@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.21",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.21/Win-App-0.3.21-Universal.pkg",
-      "sha256": "4d9a896aa9d3b85186a75d6352ba87cd2028d6e4f0f008ff6e2119c9489c5008",
-      "marime": 8340755,
-      "noutati": "Intensitatea a fost scoasă: piesele cântă la nivelul lor original. A revenit glisorul PRE din stânga egalizatorului, de la −12 la +12 dB, care se aplică pe loc piesei care cântă.",
+      "versiune": "0.3.22",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.22/Win-App-0.3.22-Universal.pkg",
+      "sha256": "b92bc87f8d984af4716bd451c8fbca9262b1fb47cf683a3b179b6df0db642825",
+      "marime": 8393701,
+      "noutati": "AirPlay 2 pentru HomePod, Apple TV și alte boxe noi; trecere automată între AirPlay vechi și AirPlay 2. Când o boxă refuză, Win-App spune ce setare trebuie schimbată. Jurnalul boxelor arată exact unde se oprește legătura.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
