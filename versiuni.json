@@ -98,11 +98,11 @@
       ]
     },
     "winapp": {
-      "versiune": "0.3.22",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.22/Win-App-0.3.22-Universal.pkg",
-      "sha256": "b92bc87f8d984af4716bd451c8fbca9262b1fb47cf683a3b179b6df0db642825",
-      "marime": 8393701,
-      "noutati": "AirPlay 2 pentru HomePod, Apple TV și alte boxe noi; trecere automată între AirPlay vechi și AirPlay 2. Când o boxă refuză, Win-App spune ce setare trebuie schimbată. Jurnalul boxelor arată exact unde se oprește legătura.",
+      "versiune": "0.3.23",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-0.3.23/Win-App-0.3.23-Universal.pkg",
+      "sha256": "36f818c1b8dc8131088a08752ecadced88a180a74c15c8a1a6bf9350422e10eb",
+      "marime": 8461675,
+      "noutati": "Apple TV-urile nu mai apar în Proiectare (nu redau sunetul de la Win-App). Asociere AirPlay cu codul de pe ecran și parola AirPlay ținută minte, pentru boxele care le cer. HomePod-urile și celelalte boxe merg ca înainte.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
