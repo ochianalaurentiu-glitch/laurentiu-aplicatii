@@ -74,11 +74,11 @@
       ]
     },
     "real-meteo": {
-      "versiune": "1.9.7",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.7/Real-Meteo-Mac-1.9.7.pkg",
-      "sha256": "9c364251b39870e0e411ad77f1ac721a98350f6a97a616332be78bd0e0fec81f",
-      "marime": 46783741,
-      "noutati": "Caută singur actualizări la fiecare pornire și le propune după câteva secunde.",
+      "versiune": "1.9.8",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/real-meteo-1.9.8/Real-Meteo-Mac-1.9.8.pkg",
+      "sha256": "34fbba59b8c8b5f1f75714d8d2d7b2db56d9b7abcea98b01506548a6c3a1a7a5",
+      "marime": 46897289,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "11.0",
       "procesoare": [
         "x86_64",
