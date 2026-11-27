@@ -50,11 +50,11 @@
       ]
     },
     "mixer": {
-      "versiune": "6.1.5",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-6.1.5/Mixer-6.1.5-Universal.pkg",
-      "sha256": "938ceee6030499010295f47ad2021d78330ef5e39e76e82592230b720a6855cd",
-      "marime": 4494062,
-      "noutati": "Versiune mare: Mixer are acum driverul lui, MixerVoce (dispozitivul „Mixer”), care îl înlocuiește pe vechiul Mixer Audio 2ch și nu mai are nevoie de Loopback. Două moduri: Streaming (48 kHz) și Audiție (192 kHz), plus efecte pentru voce: naturală, radio, prezentator și ecou. Sunetul nu se mai taie când procesorul e ocupat, iar motorul se reîmprospătează singur, doar cât taci. Verificarea driverului nu mai dă alarme false în liniște. După instalare, repornește Mac-ul.",
+      "versiune": "6.1.9",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/mixer-6.1.9/Mixer-6.1.9-Universal.pkg",
+      "sha256": "e01519e149c280fea8e9521c4c3e0dd3d863bb84ec2ec6321b2f6411ceaacb9a",
+      "marime": 4614622,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "14.2",
       "procesoare": [
         "arm64",
