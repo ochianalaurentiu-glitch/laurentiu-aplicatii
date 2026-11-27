@@ -110,11 +110,11 @@
       ]
     },
     "winapp-windows": {
-      "versiune": "0.11.15",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.15/Instaleaza-Win-App-0.11.15.exe",
-      "sha256": "3d056692436defd205af5639cf49baa1c4a0f7637575d57eb0c74747723e1c92",
-      "marime": 91001859,
-      "noutati": "Apple TV-urile nu mai apar în Proiectare (nu redau sunetul de la Win-App). Asociere AirPlay cu codul de pe ecran și parola AirPlay ținută minte, pentru boxele care le cer. HomePod-urile și celelalte boxe merg ca înainte.",
+      "versiune": "0.11.16",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/winapp-windows-0.11.16/Instaleaza-Win-App-0.11.16.exe",
+      "sha256": "568223fdaa78ec890d25750a03673fd798e69ce7aaecc380fe40fa875a0e6e21",
+      "marime": 91001813,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "platforma": "windows"
     }
   }
