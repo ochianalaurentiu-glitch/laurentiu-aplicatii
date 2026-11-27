@@ -38,11 +38,11 @@
       ]
     },
     "la-un-pahar": {
-      "versiune": "1.0.11",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.11/La-un-pahar-de-vorba-1.0.11-Universal.pkg",
-      "sha256": "0ec984d8d37fc75a804ad8e4e752161f3711e5a1308423b87b81a5d858ffff4f",
-      "marime": 805681,
-      "noutati": "Sunet la deschiderea și închiderea aplicației, logo animat, profilul nou cu Afișare și sunet.",
+      "versiune": "1.0.12",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/la-un-pahar-1.0.12/La-un-pahar-de-vorba-1.0.12-Universal.pkg",
+      "sha256": "69457c576ea5a3b032616228df7f4a2152374e60875cc75d057b2add9b516a4a",
+      "marime": 932664,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
