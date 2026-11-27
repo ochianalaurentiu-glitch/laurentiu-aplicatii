@@ -2,11 +2,11 @@
   "format": 1,
   "aplicatii": {
     "adt": {
-      "versiune": "1.5.10",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.10/A.D.T-1.5.10-Universal.pkg",
-      "sha256": "90941938be6e94e20d1c22cd5889d7703c2aab19cada3d1ad5710261573353c9",
-      "marime": 201303438,
-      "noutati": "Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
+      "versiune": "1.5.14",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/adt-1.5.14/A.D.T-1.5.14-Universal.pkg",
+      "sha256": "2815cdde0dd87edf71d7d9658556235579d448adaab2dcc1d7d55795f61b928f",
+      "marime": 201443024,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "12.0",
       "procesoare": [
         "arm64",
