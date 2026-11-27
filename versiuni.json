@@ -62,11 +62,11 @@
       ]
     },
     "playroom": {
-      "versiune": "0.2.1",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/playroom-0.2.1/Playroom-0.2.1-Universal.pkg",
-      "sha256": "ba21c3ac8e923dcbc59885a6cf5e3b9a401fb70c07391bc44a3b485fad32b6e9",
-      "marime": 289839,
-      "noutati": "Traducerea în română, completată: lista de prieteni (disponibil, deconectat, mesaj privat, blochează, favorite), meniul mesei (masa publică, statistici, informații despre joc) și jocul de domino Trenul mexican (runde, trenuri, trage o piesă, sortează piesele). „Anterior” nu se mai confundă cu „Înapoi”.",
+      "versiune": "0.2.2",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/playroom-0.2.2/Playroom-0.2.2-Universal.pkg",
+      "sha256": "d7482cad3a4ab696c933ad7548b9de279a1e4ec95893e26201f95bcd8554f97f",
+      "marime": 406373,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "13.0",
       "procesoare": [
         "arm64",
