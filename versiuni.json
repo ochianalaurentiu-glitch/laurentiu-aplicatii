@@ -14,11 +14,11 @@
       ]
     },
     "blind-spin": {
-      "versiune": "1.8.4",
-      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.4/Blind-Spin-1.8.4-Universal.pkg",
-      "sha256": "dd4d4fdbe91fac2d1d38d4e47cf70593659f1beb04dc4714b7ba9afd21d287a2",
-      "marime": 254724503,
-      "noutati": "Caută actualizări la fiecare pornire, cât stă logo-ul, și le propune imediat după.",
+      "versiune": "1.8.7",
+      "url": "https://github.com/ochianalaurentiu-glitch/laurentiu-aplicatii/releases/download/blind-spin-1.8.7/Blind-Spin-1.8.7-Universal.pkg",
+      "sha256": "edf5392a8cfe57828605ee38f745f48c37afff798e498f263dbde3e03f7ec2c7",
+      "marime": 254869630,
+      "noutati": "Rapoarte de erori anonime, cu acordul tău (le poți opri din Setări). Reparații mici.",
       "macosMinim": "11.0",
       "procesoare": [
         "arm64",
